@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md",
+                "file": "TODO in Typescript ticket.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md",
+                "file": "TODO in Typescript ticket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md",
+                "file": "TODO in Typescript ticket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md"
+                "file": "TODO in Typescript ticket.md"
               }
+            }
+          },
+          {
+            "id": "203e6cff4c2dcf5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "37c9bc71907884e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,22 +163,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba21ae14b436fd97",
+  "active": "203e6cff4c2dcf5a",
   "lastOpenFiles": [
+    "TAble select.md",
+    "TODO in Typescript ticket.md",
+    "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
+    "Repo/Repo installation.md",
+    "Daily Notes  for The 11th Jan 2024.md",
+    "Build error on master.md",
+    "Repo",
+    "Daily Notes  for The 7th Dec 2023.md",
     "Daily Notes  for The 9th Jan 2024.md",
     "DD PR estimates.md",
     "Daily Notes  for The 14th Dec 2023.md",
     "Daily Notes  for The 25th Dec 2023.md",
     "Daily Notes  for The 21st Dec 2023.md",
-    "Daily Notes  for The 7th Dec 2023.md",
-    "TODO in Typescript ticket.md",
     "spends DECEMBER.md",
     "friday shubam opaid.md",
     "Daily Notes  for The 28th Dec 2023.md",
     "Work/Devops Discussion/<DONE>Questions to ask Joey.md",
     "Work/Devops Discussion/<DONE> Daily Notes  for The 7th Nov 2023.md",
     "Work/Devops Discussion/<DONE> FE meeting notes 14 Nov 2023.md",
-    "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
     "Work/Devops Discussion/<WIP>DD-153.md",
     "Work/Devops Discussion/<DONE>FE chenges.md",
     "Work/Devops Discussion/<DONE>ICONS.md",
@@ -170,14 +191,9 @@
     "Work/Devops Discussion/<WIP>DD-151 WIP.md",
     "Work/Devops Discussion/<WIP> DD-161 Porject Listing.md",
     "Work/Presentation/# Presenttion discussion Meeting with Thomas.md",
-    "TAble select.md",
     "Daily Notes  for The 12th Dec 2023.md",
-    "Build error on master.md",
     "Untitled 1.canvas",
-    "dsadsad.md",
-    "Untitled 1.md",
     "Untitled.canvas",
-    "Untitled",
     "Personal/CS gifts",
     "Personal",
     "Work/Voice Booking",
