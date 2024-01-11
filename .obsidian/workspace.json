@@ -129,9 +129,17 @@
                 "file": "TODO in Typescript ticket.md"
               }
             }
+          },
+          {
+            "id": "203e6cff4c2dcf5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
