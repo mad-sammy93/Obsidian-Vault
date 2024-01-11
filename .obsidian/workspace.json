@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md",
+                "file": "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md",
+                "file": "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md",
+                "file": "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 7th Dec 2023.md"
+                "file": "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md"
               }
             }
           }
@@ -147,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba21ae14b436fd97",
+  "active": "b113d12da0fc0eb5",
   "lastOpenFiles": [
+    "Repo/Repo installation.md",
+    "Daily Notes  for The 11th Jan 2024.md",
+    "Build error on master.md",
+    "Repo",
+    "Daily Notes  for The 7th Dec 2023.md",
     "Daily Notes  for The 9th Jan 2024.md",
     "DD PR estimates.md",
     "Daily Notes  for The 14th Dec 2023.md",
     "Daily Notes  for The 25th Dec 2023.md",
     "Daily Notes  for The 21st Dec 2023.md",
-    "Daily Notes  for The 7th Dec 2023.md",
     "TODO in Typescript ticket.md",
     "spends DECEMBER.md",
     "friday shubam opaid.md",
@@ -172,12 +176,8 @@
     "Work/Presentation/# Presenttion discussion Meeting with Thomas.md",
     "TAble select.md",
     "Daily Notes  for The 12th Dec 2023.md",
-    "Build error on master.md",
     "Untitled 1.canvas",
-    "dsadsad.md",
-    "Untitled 1.md",
     "Untitled.canvas",
-    "Untitled",
     "Personal/CS gifts",
     "Personal",
     "Work/Voice Booking",
