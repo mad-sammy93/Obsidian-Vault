@@ -137,9 +137,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "37c9bc71907884e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b113d12da0fc0eb5",
+  "active": "203e6cff4c2dcf5a",
   "lastOpenFiles": [
     "TAble select.md",
     "TODO in Typescript ticket.md",
