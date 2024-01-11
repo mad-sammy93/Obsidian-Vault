@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6740c3512ec3c2a2","type":"file","file":"Work/Devops Discussion/Rough Notes DD-153.md","x":-252,"y":-246,"width":400,"height":400},
+		{"id":"23466c37878e67a9","type":"text","text":"## Discuss with Thomas","x":-252,"y":260,"width":572,"height":240},
+		{"id":"ac1b126fa55a8254","type":"file","file":"Work/Devops Discussion/VScode settings.md","x":320,"y":-251,"width":400,"height":411},
+		{"id":"1797903d7bee9db0","x":427,"y":322,"width":250,"height":218,"color":"3","type":"text","text":"file:///home/sambert/Downloads/wallpapers/2022-red-dead-redemption-ii-4k-ce.jpg\n"}
+	],
+	"edges":[]
+}

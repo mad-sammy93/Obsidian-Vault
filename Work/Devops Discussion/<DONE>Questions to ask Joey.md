@@ -1,0 +1,8 @@
+- ### Having a add permissions screen
+- no
+- ### Add edit screens to Figma
+- ### Will the Roles Add screens have a pre loaded array of 
+- permissions many permission entered
+- #### Mapping permission to specific roles 
+- all roles will show all permissinons
+-  [ddd](dsadsad)
