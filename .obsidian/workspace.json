@@ -11,14 +11,30 @@
             "id": "b1aa367503322a55",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Build error on master.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d0c18b36a6da6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes  for The 29th Jan 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes  for The 29th Jan 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes  for The 29th Jan 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes  for The 29th Jan 2024.md"
+              }
             }
           },
           {
@@ -157,15 +177,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1aa367503322a55",
+  "active": "86d0c18b36a6da6b",
   "lastOpenFiles": [
+    "Daily Notes  for The 16th Jan 2024.md",
+    "Daily Notes  for The 29th Jan 2024.md",
+    "<WIP> DD-167.md",
+    "Build error on master.md",
     "Daily Notes  for The 15th Jan 2024.md",
     "TODO in Typescript ticket.md",
     "TAble select.md",
     "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
     "Repo/Repo installation.md",
     "Daily Notes  for The 11th Jan 2024.md",
-    "Build error on master.md",
     "Repo",
     "Daily Notes  for The 7th Dec 2023.md",
     "Daily Notes  for The 9th Jan 2024.md",
@@ -183,9 +206,6 @@
     "Work/Devops Discussion/<DONE>FE chenges.md",
     "Work/Devops Discussion/<DONE>ICONS.md",
     "Work/Devops Discussion/DD Routes.md",
-    "Work/Devops Discussion/<WIP>DD-151 WIP.md",
-    "Work/Devops Discussion/<WIP> DD-161 Porject Listing.md",
-    "Work/Presentation/# Presenttion discussion Meeting with Thomas.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Personal/CS gifts",
