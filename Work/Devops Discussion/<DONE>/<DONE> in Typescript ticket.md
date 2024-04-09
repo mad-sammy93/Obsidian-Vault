@@ -1,0 +1,3 @@
+- [x] Move icon types to iconTypes file
+      - name them IconSize and IconTheme 
+- [x] Add types in common file

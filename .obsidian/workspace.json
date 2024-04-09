@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "068ded95c73e3368",
+        "id": "c8e71402b44856b7",
         "type": "tabs",
         "children": [
           {
-            "id": "b1aa367503322a55",
+            "id": "700ff541a86e1aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build error on master.md",
+                "file": "<IMP>Things to implement today on development.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "86d0c18b36a6da6b",
+            "id": "8805949e229fffe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 29th Jan 2024.md",
+                "file": "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f148a433b9660b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 200
   },
   "right": {
     "id": "3b8bef3bdc5527eb",
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 29th Jan 2024.md",
+                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 29th Jan 2024.md",
+                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 29th Jan 2024.md"
+                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md"
               }
             }
           },
@@ -177,42 +190,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86d0c18b36a6da6b",
+  "active": "73d13ca32762c067",
   "lastOpenFiles": [
-    "Daily Notes  for The 16th Jan 2024.md",
-    "Daily Notes  for The 29th Jan 2024.md",
-    "<WIP> DD-167.md",
-    "Build error on master.md",
-    "Daily Notes  for The 15th Jan 2024.md",
-    "TODO in Typescript ticket.md",
-    "TAble select.md",
-    "Work/Devops Discussion/<DONE> CSS Discussion with Gaurav.md",
-    "Repo/Repo installation.md",
-    "Daily Notes  for The 11th Jan 2024.md",
-    "Repo",
-    "Daily Notes  for The 7th Dec 2023.md",
-    "Daily Notes  for The 9th Jan 2024.md",
-    "DD PR estimates.md",
-    "Daily Notes  for The 14th Dec 2023.md",
-    "Daily Notes  for The 25th Dec 2023.md",
-    "Daily Notes  for The 21st Dec 2023.md",
-    "spends DECEMBER.md",
-    "friday shubam opaid.md",
-    "Daily Notes  for The 28th Dec 2023.md",
-    "Work/Devops Discussion/<DONE>Questions to ask Joey.md",
-    "Work/Devops Discussion/<DONE> Daily Notes  for The 7th Nov 2023.md",
-    "Work/Devops Discussion/<DONE> FE meeting notes 14 Nov 2023.md",
-    "Work/Devops Discussion/<WIP>DD-153.md",
-    "Work/Devops Discussion/<DONE>FE chenges.md",
-    "Work/Devops Discussion/<DONE>ICONS.md",
-    "Work/Devops Discussion/DD Routes.md",
-    "Untitled 1.canvas",
+    "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
+    "Work/Devops Discussion/VScode settings.md",
+    "Work/Devops Discussion/<DONE>/<DONE> in Typescript ticket.md",
+    "Work/Devops Discussion/<DONE>/<DONE>TAble select backup.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Devop Dashboard Meetings.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Standup 24 July.md",
+    "Work/Devops Discussion/<DONE>/<DONE>DD-223.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Login && OTP.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md",
+    "Work/Devops Discussion/<WIP>/Project and roles discussion.md",
+    "Work/Devops Discussion/<TODO>/Notes for New relic workgflow.md",
+    "Work/Devops Discussion/<DONE>/DD Routes.md",
+    "Work/Devops Discussion/DD-FRONTEND meeting Notes  for The 25th Oct 2023.md",
+    "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
+    "Work/Devops Discussion/DailyNotes/DD Daily Notes  for The 5th Feb 2024.md",
+    "Work/Devops Discussion/DailyNotes/Daily Notes  for The 12th Feb 2024.md",
+    "Work/Devops Discussion/<TODO>/<TODO> Discussion about Text sanitization.md",
+    "Work/Devops Discussion/DailyNotes",
+    "Work/Devops Discussion/<TODO>",
+    "Work/Devops Discussion/<WIP>/<WIP> DD-161 Porject Listing.md",
+    "Work/Devops Discussion/<WIP>/<WIP> DD-218 Notes.md",
+    "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
+    "Work/Devops Discussion/<WIP>",
+    "Work/Devops Discussion/<DONE>/<DONE> COpmpany api issues.md",
+    "Work/Devops Discussion/<IMP>",
+    "<IMP>Things to implement today on development.md",
+    "Work/Devops Discussion/<DONE>",
     "Untitled.canvas",
+    "Daily Notes  for The 23rd Feb 2024.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Points for  Discussion.md",
+    "Work/Devops dashboard loign accounts.md",
+    "Pasted image 20240216130717.png",
+    "Pasted image 20240205202356.png",
+    "Archived",
+    "Untitled 1.canvas",
     "Personal/CS gifts",
     "Personal",
     "Work/Voice Booking",
-    "Work/Presentation",
-    "Work",
-    "Work/Devops Discussion"
+    "Work/Presentation"
   ]
 }
