@@ -4,50 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e71402b44856b7",
+        "id": "5101269cc7ca050b",
         "type": "tabs",
         "children": [
           {
-            "id": "700ff541a86e1aa4",
+            "id": "e61bf1e335e16e54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "<IMP>Things to implement today on development.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8805949e229fffe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f148a433b9660b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73d13ca32762c067",
+  "active": "e61bf1e335e16e54",
   "lastOpenFiles": [
+    "<IMP>Things to implement today on development.md",
+    "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
+    "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
     "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
     "Work/Devops Discussion/VScode settings.md",
     "Work/Devops Discussion/<DONE>/<DONE> in Typescript ticket.md",
@@ -206,7 +176,6 @@
     "Work/Devops Discussion/<TODO>/Notes for New relic workgflow.md",
     "Work/Devops Discussion/<DONE>/DD Routes.md",
     "Work/Devops Discussion/DD-FRONTEND meeting Notes  for The 25th Oct 2023.md",
-    "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
     "Work/Devops Discussion/DailyNotes/DD Daily Notes  for The 5th Feb 2024.md",
     "Work/Devops Discussion/DailyNotes/Daily Notes  for The 12th Feb 2024.md",
     "Work/Devops Discussion/<TODO>/<TODO> Discussion about Text sanitization.md",
@@ -218,12 +187,10 @@
     "Work/Devops Discussion/<WIP>",
     "Work/Devops Discussion/<DONE>/<DONE> COpmpany api issues.md",
     "Work/Devops Discussion/<IMP>",
-    "<IMP>Things to implement today on development.md",
     "Work/Devops Discussion/<DONE>",
     "Untitled.canvas",
     "Daily Notes  for The 23rd Feb 2024.md",
     "Work/Devops Discussion/<DONE>/<DONE>Points for  Discussion.md",
-    "Work/Devops dashboard loign accounts.md",
     "Pasted image 20240216130717.png",
     "Pasted image 20240205202356.png",
     "Archived",
