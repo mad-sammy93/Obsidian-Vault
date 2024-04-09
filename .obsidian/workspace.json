@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exec",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1ba5c1e787346f67",
+  "active": "24339eaf23c3016d",
   "lastOpenFiles": [
     "Daily Notes  for The 9th Apr 2024.md",
     "notes",
