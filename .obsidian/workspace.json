@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11e2d6acc4e38b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4037dafc5ffa58",
+  "active": "11e2d6acc4e38b38",
   "lastOpenFiles": [
-    "Work/Devops Discussion/Git Commands.md",
     "Daily Notes  for The 9th Apr 2024.md",
+    "conflict-files-obsidian-git.md",
+    "TODO in Typescript ticket.md",
+    "Work/Devops Discussion/Git Commands.md",
     "<IMP>Things to implement today on development.md",
     "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
     "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
@@ -191,9 +207,7 @@
     "Work/Devops Discussion/<TODO>",
     "Work/Devops Discussion/<WIP>/<WIP> DD-161 Porject Listing.md",
     "Work/Devops Discussion/<WIP>/<WIP> DD-218 Notes.md",
-    "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
     "Work/Devops Discussion/<WIP>",
-    "Work/Devops Discussion/<DONE>/<DONE> COpmpany api issues.md",
     "Work/Devops Discussion/<IMP>",
     "Work/Devops Discussion/<DONE>",
     "Untitled.canvas",
