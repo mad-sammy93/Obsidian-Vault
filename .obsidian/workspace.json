@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5101269cc7ca050b",
+        "id": "7a735d1f032eef2f",
         "type": "tabs",
         "children": [
           {
-            "id": "e61bf1e335e16e54",
+            "id": "5d4037dafc5ffa58",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes  for The 9th Apr 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes  for The 9th Apr 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes  for The 9th Apr 2024.md"
+              }
             }
           },
           {
@@ -157,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e61bf1e335e16e54",
+  "active": "5d4037dafc5ffa58",
   "lastOpenFiles": [
+    "Work/Devops Discussion/Git Commands.md",
+    "Daily Notes  for The 9th Apr 2024.md",
     "<IMP>Things to implement today on development.md",
     "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
     "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
@@ -189,8 +197,6 @@
     "Work/Devops Discussion/<IMP>",
     "Work/Devops Discussion/<DONE>",
     "Untitled.canvas",
-    "Daily Notes  for The 23rd Feb 2024.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Points for  Discussion.md",
     "Pasted image 20240216130717.png",
     "Pasted image 20240205202356.png",
     "Archived",
