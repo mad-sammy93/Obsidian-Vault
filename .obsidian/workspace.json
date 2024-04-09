@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7a735d1f032eef2f",
+        "id": "31822dec51af1ba4",
         "type": "tabs",
         "children": [
           {
-            "id": "5d4037dafc5ffa58",
+            "id": "1ba5c1e787346f67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "file": "Work/CORS comment.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "file": "Work/CORS comment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "file": "Work/CORS comment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 9th Apr 2024.md"
+                "file": "Work/CORS comment.md"
               }
             }
           },
@@ -163,47 +163,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4037dafc5ffa58",
+  "active": "1ba5c1e787346f67",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily Notes  for The 9th Apr 2024.md",
-    "TODO in Typescript ticket.md",
+    "Work/devops    .env.md",
+    "Work/Voice Booking/Currently, For the availability indicator tooltip next to the Image,  there are 2 hardcoded conditions based on availability->value which can take values available and unknown.Will this condition change to handle more values?.md",
+    "Work/Presentation/<DONE> demo.md",
+    "Work/Localstack commands.md",
+    "Work/Devops dashboard loign accounts.md",
     "Work/Devops Discussion/Git Commands.md",
-    "<IMP>Things to implement today on development.md",
-    "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
-    "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
-    "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
-    "Work/Devops Discussion/VScode settings.md",
-    "Work/Devops Discussion/<DONE>/<DONE> in Typescript ticket.md",
-    "Work/Devops Discussion/<DONE>/<DONE>TAble select backup.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Devop Dashboard Meetings.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Standup 24 July.md",
-    "Work/Devops Discussion/<DONE>/<DONE>DD-223.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Login && OTP.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md",
-    "Work/Devops Discussion/<WIP>/Project and roles discussion.md",
-    "Work/Devops Discussion/<TODO>/Notes for New relic workgflow.md",
-    "Work/Devops Discussion/<DONE>/DD Routes.md",
-    "Work/Devops Discussion/DD-FRONTEND meeting Notes  for The 25th Oct 2023.md",
-    "Work/Devops Discussion/DailyNotes/DD Daily Notes  for The 5th Feb 2024.md",
+    "Work/Devops Discussion/DailyNotes/Daily Notes  for The 30th Nov 2023.md",
+    "Work/Devops Discussion/DailyNotes/Daily Notes  for The 16th Jan 2024.md",
     "Work/Devops Discussion/DailyNotes/Daily Notes  for The 12th Feb 2024.md",
-    "Work/Devops Discussion/<TODO>/<TODO> Discussion about Text sanitization.md",
+    "Work/Devops Discussion/DailyNotes/DD Daily Notes  for The 5th Feb 2024.md",
     "Work/Devops Discussion/DailyNotes",
-    "Work/Devops Discussion/<TODO>",
-    "Work/Devops Discussion/<WIP>/<WIP> DD-161 Porject Listing.md",
+    "Work/Devops Discussion/BACKEND temp fix.md",
+    "Work/Devops Discussion/<WIP>/Project and roles discussion.md",
+    "Work/Devops Discussion/<WIP>/<WIP>DD-153.md",
+    "Work/Devops Discussion/<WIP>/<WIP>DD-151 WIP.md",
+    "Work/Devops Discussion/<WIP>/<WIP>DD Add Edit page.md",
     "Work/Devops Discussion/<WIP>/<WIP> DD-218 Notes.md",
+    "Work/Devops Discussion/<WIP>/<WIP> DD-167.md",
+    "Work/Devops Discussion/<WIP>/<WIP> DD-161 Porject Listing.md",
     "Work/Devops Discussion/<WIP>",
-    "Work/Devops Discussion/<IMP>",
+    "Work/Devops Discussion/<TODO>/Notes for New relic workgflow.md",
+    "Work/Devops Discussion/<TODO>/<TODO> Discussion about Text sanitization.md",
+    "Work/Devops Discussion/<TODO>",
+    "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
+    "Work/Devops Discussion/<DONE>/DD Routes.md",
+    "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
+    "Work/Devops Discussion/<DONE>/<DONE>TAble select backup.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Standup 24 July.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
     "Work/Devops Discussion/<DONE>",
+    "Archived",
+    "https:/github.com/mad-sammy93",
+    "https:/github.com",
+    "https:",
+    "Repo",
+    "Work/Devops Discussion/<IMP>",
     "Untitled.canvas",
     "Pasted image 20240216130717.png",
     "Pasted image 20240205202356.png",
-    "Archived",
-    "Untitled 1.canvas",
-    "Personal/CS gifts",
-    "Personal",
-    "Work/Voice Booking",
-    "Work/Presentation"
+    "Untitled 1.canvas"
   ]
 }
