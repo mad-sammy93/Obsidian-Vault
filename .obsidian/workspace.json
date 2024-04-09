@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e289cf879f3a4a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes  for The 9th Apr 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/CORS comment.md",
+                "file": "Daily Notes  for The 9th Apr 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/CORS comment.md",
+                "file": "Daily Notes  for The 9th Apr 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/CORS comment.md"
+                "file": "Daily Notes  for The 9th Apr 2024.md"
               }
             }
           },
@@ -145,6 +159,18 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5e03ff971d3b9c9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -160,11 +186,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "1ba5c1e787346f67",
+  "active": "e289cf879f3a4a29",
   "lastOpenFiles": [
+    "Work/CORS comment.md",
     "Work/devops    .env.md",
     "Work/Voice Booking/Currently, For the availability indicator tooltip next to the Image,  there are 2 hardcoded conditions based on availability->value which can take values available and unknown.Will this condition change to handle more values?.md",
     "Work/Presentation/<DONE> demo.md",
@@ -193,7 +222,6 @@
     "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
     "Work/Devops Discussion/<DONE>/<DONE>TAble select backup.md",
     "Work/Devops Discussion/<DONE>/<DONE>Standup 24 July.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
     "Work/Devops Discussion/<DONE>",
     "Archived",
     "https:/github.com/mad-sammy93",

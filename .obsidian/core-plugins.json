@@ -7,6 +7,7 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
+  "properties",
   "page-preview",
   "daily-notes",
   "templates",
@@ -16,6 +17,8 @@
   "bookmarks",
   "outline",
   "word-count",
+  "audio-recorder",
   "file-recovery",
+  "publish",
   "sync"
 ]
