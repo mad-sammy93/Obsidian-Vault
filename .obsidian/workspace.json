@@ -177,13 +177,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f836c4939ecef7d8",
+  "active": "37c9bc71907884e5",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled 1.md",
-    "Obsidian-Vault",
     "Work/settings.md",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
     "Obsidian-Vault.zip",
+    "Obsidian-Vault",
     "Work/devops    .env.md",
     "Work/Voice Booking/Currently, For the availability indicator tooltip next to the Image,  there are 2 hardcoded conditions based on availability->value which can take values available and unknown.Will this condition change to handle more values?.md",
     "Work/Presentation/<DONE> demo.md",
