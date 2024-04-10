@@ -32,35 +32,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "71f41ab68c67f8ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cde3791cf33f1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VB.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,12 +188,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1cde3791cf33f1ab",
+  "active": "37c9bc71907884e5",
   "lastOpenFiles": [
     "VB.md",
-    "Daily Notes  for The 10th Apr 2024.md",
-    "Daily Notes  for The 9th Apr 2024.md",
     "TEsted file.md",
+    "Daily Notes  for The 10th Apr 2024.md",
+    "Untitled.md",
+    "Daily Notes  for The 9th Apr 2024.md",
     "Work/CORS comment.md",
     "Untitled",
     "notes",
@@ -250,7 +221,6 @@
     "Work/Devops Discussion/<TODO>/Notes for New relic workgflow.md",
     "Work/Devops Discussion/<TODO>/<TODO> Discussion about Text sanitization.md",
     "Work/Devops Discussion/<TODO>",
-    "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
     "Work/Devops Discussion/<DONE>",
     "Archived",
     "https:/github.com/mad-sammy93",
