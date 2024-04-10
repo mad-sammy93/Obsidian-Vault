@@ -11,8 +11,13 @@
             "id": "f836c4939ecef7d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes  for The 10th Apr 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes  for The 10th Apr 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes  for The 10th Apr 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes  for The 10th Apr 2024.md"
+              }
             }
           },
           {
@@ -168,8 +177,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "37c9bc71907884e5",
+  "active": "f836c4939ecef7d8",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 1.md",
     "Obsidian-Vault",
     "Work/settings.md",
     "Obsidian-Vault.zip",
@@ -199,17 +210,14 @@
     "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
     "Work/Devops Discussion/<DONE>/DD Routes.md",
     "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
-    "Work/Devops Discussion/<DONE>/<DONE>TAble select backup.md",
     "Work/Devops Discussion/<DONE>",
     "Archived",
     "Obsidian-Vault/Work/Voice Booking",
     "Obsidian-Vault/Work/Presentation",
     "Obsidian-Vault/Work/Devops Discussion",
-    "Obsidian-Vault/Work",
     "Obsidian-Vault/Untitled.canvas",
     "Untitled.canvas",
     "Pasted image 20240216130717.png",
-    "Pasted image 20240205202356.png",
-    "Untitled 1.canvas"
+    "Pasted image 20240205202356.png"
   ]
 }
