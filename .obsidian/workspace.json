@@ -45,9 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1cde3791cf33f1ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b8bef3bdc5527eb",
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md",
+                "file": "VB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md",
+                "file": "VB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md"
+                "file": "VB.md"
               }
             }
           },
@@ -190,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +219,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "71f41ab68c67f8ea",
+  "active": "1cde3791cf33f1ab",
   "lastOpenFiles": [
+    "VB.md",
     "Daily Notes  for The 10th Apr 2024.md",
     "Daily Notes  for The 9th Apr 2024.md",
     "TEsted file.md",
@@ -236,7 +252,6 @@
     "Work/Devops Discussion/<TODO>/<TODO> Discussion about Text sanitization.md",
     "Work/Devops Discussion/<TODO>",
     "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
-    "Work/Devops Discussion/<DONE>/DD Routes.md",
     "Work/Devops Discussion/<DONE>",
     "Archived",
     "https:/github.com/mad-sammy93",
