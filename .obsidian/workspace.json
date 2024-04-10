@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb43cfbfc9a16c82",
+        "id": "1b2d959cb687568b",
         "type": "tabs",
         "children": [
           {
-            "id": "f836c4939ecef7d8",
+            "id": "3174bb7f7bbbab56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes  for The 10th Apr 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +171,6 @@
   "active": "37c9bc71907884e5",
   "lastOpenFiles": [
     "Work/settings.md",
-    "Untitled 1.md",
-    "Untitled 1.canvas",
-    "Obsidian-Vault.zip",
-    "Obsidian-Vault",
     "Work/devops    .env.md",
     "Work/Voice Booking/Currently, For the availability indicator tooltip next to the Image,  there are 2 hardcoded conditions based on availability->value which can take values available and unknown.Will this condition change to handle more values?.md",
     "Work/Presentation/<DONE> demo.md",
@@ -210,11 +197,16 @@
     "Work/Devops Discussion/<IMP> Devops Dashboard Backend.md",
     "Work/Devops Discussion/<DONE>/DD Routes.md",
     "Work/Devops Discussion/<DONE>/<DONE>zipcode.md",
+    "Work/Devops Discussion/<DONE>/<DONE>TAble select backup.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Standup 24 July.md",
     "Work/Devops Discussion/<DONE>",
+    "Untitled 1.canvas",
+    "Obsidian-Vault.zip",
     "Archived",
+    "Repo",
+    "Obsidian-Vault",
     "Obsidian-Vault/Work/Voice Booking",
     "Obsidian-Vault/Work/Presentation",
-    "Obsidian-Vault/Work/Devops Discussion",
     "Obsidian-Vault/Untitled.canvas",
     "Untitled.canvas",
     "Pasted image 20240216130717.png",
