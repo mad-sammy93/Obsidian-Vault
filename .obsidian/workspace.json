@@ -32,17 +32,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "1483c9031a0eadbe",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
         ],
         "currentTab": 1
