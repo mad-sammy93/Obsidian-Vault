@@ -9,7 +9,7 @@ adding indicator to listing page items
 - _voice-actors-listing.scss_
   
 ~~break 1 hr~~
-**2:15** 
+**2:15**  - **5:00**
 
 SIngle page 
 
