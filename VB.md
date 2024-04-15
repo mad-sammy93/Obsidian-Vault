@@ -1,5 +1,0 @@
-- **Show the availability indicator** 20
-- **A tooltip is displayed on the hover of the indicator.** 10
-- **The availability text & description on PDP will be hardcoded.** 15
-- **The (indicator, text, tooltip) is displayed below the availability description for all statuses. (When there are no absences)** 10
-  - **For the absences display** 20
