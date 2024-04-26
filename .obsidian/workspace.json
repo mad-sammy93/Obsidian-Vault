@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDEMY.md",
-                "mode": "preview",
+                "file": "VB-408.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDEMY.md",
+                "file": "VB-408.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDEMY.md",
+                "file": "VB-408.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDEMY.md"
+                "file": "VB-408.md"
               }
             }
           },
@@ -207,11 +207,12 @@
   },
   "active": "7e3fa8d4ab1bdf84",
   "lastOpenFiles": [
+    "Daily Notes  for The 26th Apr 2024.md",
+    "UDEMY.md",
     "Daily Notes  for The 24th Apr 2024.md",
     "spelling bee.md",
     "Daily Notes  for The 23rd Apr 2024.md",
     "Daily Notes  for The 19th Apr 2024.md",
-    "UDEMY.md",
     "GEMENI.md",
     "VB-408.md",
     "VB.md",
@@ -236,7 +237,6 @@
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/DailyNotes/Daily Notes  for The 30th Nov 2023.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/DailyNotes/Daily Notes  for The 16th Jan 2024.md",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/DailyNotes",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<WIP>",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<TODO>",
