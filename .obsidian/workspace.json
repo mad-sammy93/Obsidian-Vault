@@ -32,22 +32,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7e3fa8d4ab1bdf84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 29th Apr 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 29th Apr 2024.md",
+                "file": "Daily Notes  for The 23rd Apr 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 29th Apr 2024.md",
+                "file": "Daily Notes  for The 23rd Apr 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 29th Apr 2024.md"
+                "file": "Daily Notes  for The 23rd Apr 2024.md"
               }
             }
           },
@@ -205,36 +192,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7e3fa8d4ab1bdf84",
+  "active": "37fa00f2ae751879",
   "lastOpenFiles": [
-    "VB-408.md",
-    "Daily Notes  for The 29th Apr 2024.md",
-    "Daily Notes  for The 26th Apr 2024.md",
     "UDEMY.md",
+    "Daily Notes  for The 23rd Apr 2024.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Questions to ask Joey.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Notes for Upcoming Project Update.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Meeting with Tapan ( 40 mins).md",
+    "Work/Devops Discussion/<DONE>/<DONE>Meeting with JOSE.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Login && OTP.md",
+    "Work/Devops Discussion/<DONE>/<DONE>ICONS.md",
+    "Work/Devops Discussion/<DONE>/<DONE>FE chenges.md",
+    "Work/Devops Discussion/<DONE>/<DONE>DD-223.md",
+    "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
+    "Work/Devops Discussion/<DONE>/<DONE>Daily Notes  for The 26th Mar 2024.md",
+    "Work/Devops Discussion/<DONE>/<DONE> in Typescript ticket.md",
+    "Work/Devops Discussion/<DONE>/<DONE> FE meeting notes 14 Nov 2023.md",
+    "Work/Devops Discussion/<DONE>/<DONE> CSS Discussion with Gaurav.md",
+    "Daily Notes  for The 29th Apr 2024.md",
+    "VB-408.md",
+    "Daily Notes  for The 26th Apr 2024.md",
     "Daily Notes  for The 24th Apr 2024.md",
     "spelling bee.md",
-    "Daily Notes  for The 23rd Apr 2024.md",
     "Daily Notes  for The 19th Apr 2024.md",
     "GEMENI.md",
     "VB.md",
     "Untitled.canvas",
     "Work/Devops Discussion/DD login.md",
-    "Work/Devops Discussion/devops    .env.md",
-    "Work/Devops Discussion/Devops dashboard loign accounts.md",
-    "Daily Notes  for The 10th Apr 2024.md",
-    "<IMP>Things to implement today on development.md",
-    "Daily Notes  for The 9th Apr 2024.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived/friday shubam opaid.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived/Repo installation.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived/Daily Notes  for The 9th Jan 2024.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived/Daily Notes  for The 7th Dec 2023.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived/Daily Notes  for The 29th Jan 2024.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived/DD PR estimates.md",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts/Parag & shubham.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts/Gift Options.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts/General guys.md",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/spends DECEMBER.md",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/DailyNotes",
