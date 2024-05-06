@@ -11,8 +11,13 @@
             "id": "9450a657e58ef787",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GEMENI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GEMENI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GEMENI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GEMENI.md"
+              }
             }
           },
           {
@@ -170,11 +179,20 @@
   },
   "active": "9450a657e58ef787",
   "lastOpenFiles": [
-    "Daily Notes  for The 2nd May 2024.md",
-    "Daily Notes  for The 29th Apr 2024.md",
-    "GEMENI.md",
-    "Daily Notes  for The 23rd Apr 2024.md",
     "UDEMY.md",
+    "spelling bee.md",
+    "Work/Voice Booking/VB-408.md",
+    "Archived/Daily Notes  for The 29th Apr 2024.md",
+    "Daily Notes  for The 26th Apr 2024.md",
+    "Daily Notes  for The 24th Apr 2024.md",
+    "Archived/Daily Notes  for The 19th Apr 2024.md",
+    "Daily Notes  for The 23rd Apr 2024.md",
+    "Archived/Daily Notes  for The 10th Apr 2024.md",
+    "Archived/Daily Notes  for The 2nd May 2024.md",
+    "Daily Notes  for The 9th Apr 2024.md",
+    "Work/CO2/CO2 - 2nd discussion with Erik.md",
+    "Work/CO2",
+    "GEMENI.md",
     "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
     "Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md",
     "Work/Devops Discussion/<DONE>/<DONE>Questions to ask Joey.md",
@@ -188,14 +206,6 @@
     "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
     "Work/Devops Discussion/<DONE>/<DONE>Daily Notes  for The 26th Mar 2024.md",
     "Work/Devops Discussion/<DONE>/<DONE> in Typescript ticket.md",
-    "Work/Devops Discussion/<DONE>/<DONE> FE meeting notes 14 Nov 2023.md",
-    "Work/Devops Discussion/<DONE>/<DONE> CSS Discussion with Gaurav.md",
-    "VB-408.md",
-    "Daily Notes  for The 26th Apr 2024.md",
-    "Daily Notes  for The 24th Apr 2024.md",
-    "spelling bee.md",
-    "Daily Notes  for The 19th Apr 2024.md",
-    "VB.md",
     "Untitled.canvas",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
@@ -206,7 +216,6 @@
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<IMP>",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<DONE>",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Voice Booking",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Presentation",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Untitled.canvas",
     "Untitled 1.canvas",
     "Obsidian-Vault/Untitled.canvas",
