@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d63a6378b291b758",
+        "id": "90f205bd015e3517",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d5e94fa2c59ed3",
+            "id": "86772ea8dbae6bb3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +168,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c6d5e94fa2c59ed3",
+  "active": "86772ea8dbae6bb3",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Work/Devops Discussion/VScode settings.md",
+    "Untitled 1.canvas",
+    "Daily Notes  for The 6th May 2024.md",
+    "Recording 20240506170929.webm",
+    "Recording 20240506170917.webm",
     "UDEMY.md",
     "spelling bee.md",
     "GEMENI.md",
@@ -195,10 +200,6 @@
     "Work/Devops Discussion/<DONE>/<DONE>ICONS.md",
     "Work/Devops Discussion/<DONE>/<DONE>FE chenges.md",
     "Work/Devops Discussion/<DONE>/<DONE>DD-223.md",
-    "Work/Devops Discussion/<DONE>/<DONE>DD Development branch.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Daily Notes  for The 26th Mar 2024.md",
-    "Work/Devops Discussion/<DONE>/<DONE> in Typescript ticket.md",
-    "Untitled.canvas",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal",
@@ -206,10 +207,7 @@
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<WIP>",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<TODO>",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<IMP>",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<DONE>",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Voice Booking",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Untitled.canvas",
-    "Untitled 1.canvas",
     "Obsidian-Vault/Untitled.canvas",
     "Pasted image 20240216130717.png",
     "Pasted image 20240205202356.png"

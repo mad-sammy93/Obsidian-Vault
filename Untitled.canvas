@@ -1,10 +1,13 @@
 {
 	"nodes":[
 		{"id":"6740c3512ec3c2a2","type":"file","file":"Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md","x":-252,"y":-246,"width":400,"height":400},
-		{"id":"ac1b126fa55a8254","type":"file","file":"Work/Devops Discussion/VScode settings.md","x":320,"y":-251,"width":400,"height":411},
+		{"id":"ac1b126fa55a8254","type":"file","file":"Work/Devops Discussion/VScode settings.md","x":240,"y":-251,"width":480,"height":405},
 		{"id":"1797903d7bee9db0","type":"text","text":"file:///home/sambert/Downloads/wallpapers/2022-red-dead-redemption-ii-4k-ce.jpg\n","x":427,"y":322,"width":250,"height":218,"color":"3"},
 		{"id":"e83a27c0a01ab05a","type":"file","file":"Work/Devops Discussion/devops    .env.md","x":-252,"y":240,"width":400,"height":400},
-		{"id":"2c1e2c2a445fd42b","x":-252,"y":-400,"width":250,"height":60,"color":"1","type":"text","text":"NOTES"}
+		{"id":"2c1e2c2a445fd42b","type":"text","text":"NOTES","x":-252,"y":-400,"width":250,"height":60,"color":"1"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0add5ada8c3eeaa9","fromNode":"6740c3512ec3c2a2","fromSide":"right","toNode":"ac1b126fa55a8254","toSide":"left"},
+		{"id":"0a0346a74d7b6a41","fromNode":"6740c3512ec3c2a2","fromSide":"bottom","toNode":"e83a27c0a01ab05a","toSide":"top"}
+	]
 }
