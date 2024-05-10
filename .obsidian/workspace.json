@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90f205bd015e3517",
+        "id": "fa768ed640857c90",
         "type": "tabs",
         "children": [
           {
-            "id": "86772ea8dbae6bb3",
+            "id": "4640b2c4709eecad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +169,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "86772ea8dbae6bb3",
+  "active": "4640b2c4709eecad",
   "lastOpenFiles": [
+    "Work/CO2/CO2 - Backend Fleet meeting.md",
     "Untitled.canvas",
+    "Untitled.md",
+    "Work/CO2/CO2 - Discussion with Erik.md",
     "Work/Devops Discussion/VScode settings.md",
     "Untitled 1.canvas",
     "Daily Notes  for The 6th May 2024.md",
@@ -188,7 +192,6 @@
     "Archived/Daily Notes  for The 10th Apr 2024.md",
     "Archived/Daily Notes  for The 2nd May 2024.md",
     "Daily Notes  for The 9th Apr 2024.md",
-    "Work/CO2/CO2 - 2nd discussion with Erik.md",
     "Work/CO2",
     "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
     "Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md",
@@ -198,8 +201,6 @@
     "Work/Devops Discussion/<DONE>/<DONE>Meeting with JOSE.md",
     "Work/Devops Discussion/<DONE>/<DONE>Login && OTP.md",
     "Work/Devops Discussion/<DONE>/<DONE>ICONS.md",
-    "Work/Devops Discussion/<DONE>/<DONE>FE chenges.md",
-    "Work/Devops Discussion/<DONE>/<DONE>DD-223.md",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal",
