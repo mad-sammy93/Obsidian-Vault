@@ -15,3 +15,13 @@ add insert script for backend
 
 versionining of documents
 documenrt owner
+
+
+
+## Figma designs
+
+
+- Having only 2 Sign in  Processes
+- table listing 
+- calendar
+- 
