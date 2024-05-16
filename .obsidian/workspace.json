@@ -4,50 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fa768ed640857c90",
+        "id": "c14feb5251675ab4",
         "type": "tabs",
         "children": [
           {
-            "id": "4640b2c4709eecad",
+            "id": "e9bc5208ff112a1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "Work/CO2/CO2 - Backed meeting login and other endpoints.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0093846f89bef8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 15th May 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4da97b353aa8fe80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Recording 20240516152258.webm"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 15th May 2024.md",
+                "file": "Recording 20240516152258.webm",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 15th May 2024.md",
+                "file": "Recording 20240516152258.webm",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 15th May 2024.md"
+                "file": "Recording 20240516152258.webm"
               }
             }
           },
@@ -205,27 +175,33 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d0093846f89bef8e",
+  "active": "e9bc5208ff112a1c",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Daily Notes  for The 15th May 2024.md",
-    "Untitled 2.md",
-    "Daily Notes  for The 10th May 2024.md",
-    "Untitled.md",
+    "Recording 20240516152244.webm",
+    "Recording 20240516151751.webm",
+    "Recording 20240516152258.webm",
+    "Recording 20240516152339.webm",
+    "Recording 20240516152419.webm",
+    "CO2 meeting  notes.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Daily Notes  for The 6th May 2024.md",
-    "Work/Voice Booking/settings.md",
     "Work/CO2/CO2 - Backed meeting login and other endpoints.md",
+    "GEMENI API.md",
+    "<IMP>Things to implement today on development.md",
+    "spelling bee.md",
+    "UDEMY.md",
+    "Smarthore academy notes.md",
+    "Daily Notes  for The 6th May 2024.md",
+    "Smartshor Academy meeting notes.md",
+    "Untitled 2.md",
+    "Daily Notes  for The 15th May 2024.md",
+    "Work/Voice Booking/settings.md",
     "Work/Devops Discussion/CORS comment.md",
     "Work/CO2/CO2 - Backend Fleet meeting.md",
     "Work/CO2/CO2 - Discussion with Erik.md",
     "Work/Devops Discussion/VScode settings.md",
-    "Untitled 1.canvas",
     "Recording 20240506170929.webm",
     "Recording 20240506170917.webm",
-    "UDEMY.md",
-    "spelling bee.md",
-    "GEMENI.md",
     "Work/Voice Booking/VB-408.md",
     "Archived/Daily Notes  for The 29th Apr 2024.md",
     "Daily Notes  for The 26th Apr 2024.md",
@@ -236,15 +212,9 @@
     "Archived/Daily Notes  for The 2nd May 2024.md",
     "Daily Notes  for The 9th Apr 2024.md",
     "Work/CO2",
-    "Work/Devops Discussion/<DONE>/<DONE>Standup 21st September.md",
-    "Work/Devops Discussion/<DONE>/<DONE>Rough Notes DD-153.md",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/DailyNotes",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<WIP>",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<TODO>",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Work/Devops Discussion/<IMP>",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Untitled.canvas",
     "Obsidian-Vault/Untitled.canvas",
     "Pasted image 20240216130717.png",
