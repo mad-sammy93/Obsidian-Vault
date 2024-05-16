@@ -11,9 +11,12 @@
             "id": "e9bc5208ff112a1c",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Recording 20240516152258.webm"
+                "file": "Daily Notes  for The 16th May 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recording 20240516152258.webm",
+                "file": "Daily Notes  for The 16th May 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recording 20240516152258.webm",
+                "file": "Daily Notes  for The 16th May 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recording 20240516152258.webm"
+                "file": "Daily Notes  for The 16th May 2024.md"
               }
             }
           },
@@ -177,9 +180,10 @@
   },
   "active": "e9bc5208ff112a1c",
   "lastOpenFiles": [
+    "Recording 20240516152258.webm",
+    "Daily Notes  for The 16th May 2024.md",
     "Recording 20240516152244.webm",
     "Recording 20240516151751.webm",
-    "Recording 20240516152258.webm",
     "Recording 20240516152339.webm",
     "Recording 20240516152419.webm",
     "CO2 meeting  notes.md",
@@ -210,11 +214,9 @@
     "Daily Notes  for The 23rd Apr 2024.md",
     "Archived/Daily Notes  for The 10th Apr 2024.md",
     "Archived/Daily Notes  for The 2nd May 2024.md",
-    "Daily Notes  for The 9th Apr 2024.md",
     "Work/CO2",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Untitled.canvas",
     "Obsidian-Vault/Untitled.canvas",
     "Pasted image 20240216130717.png",
