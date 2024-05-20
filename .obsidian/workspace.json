@@ -39,15 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CO2 meeting notes 17 May 2024.md",
+                "file": "Daily Notes  for The 20th May 2024.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bac06de9ac01c88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CO2 meeting notes 17 May 2024.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CO2 meeting notes 17 May 2024.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CO2 meeting notes 17 May 2024.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -205,10 +218,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d969b3c0fc50197c",
+  "active": "bac06de9ac01c88f",
   "lastOpenFiles": [
-    "Smartshor Academy meeting notes.md",
+    "Untitled.md",
+    "Daily Notes  for The 20th May 2024.md",
     "CO2 meeting notes 17 May 2024.md",
+    "Smartshor Academy meeting notes.md",
     "Daily Notes  for The 15th May 2024.md",
     "Untitled 1.canvas",
     "Recording 20240516151751.webm",
@@ -240,7 +255,6 @@
     "Daily Notes  for The 26th Apr 2024.md",
     "Daily Notes  for The 24th Apr 2024.md",
     "Archived/Daily Notes  for The 19th Apr 2024.md",
-    "Daily Notes  for The 23rd Apr 2024.md",
     "Work/CO2",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
