@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FRONTEND CASE DESCRIPTION.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65056b15402c43b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smartshor Academy meeting notes.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d969b3c0fc50197c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 20th May 2024.md",
+                "file": "CO2 meeting notes 17 May 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -52,15 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "FRONTEND CASE DESCRIPTION.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "FRONTEND CASE DESCRIPTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "FRONTEND CASE DESCRIPTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "FRONTEND CASE DESCRIPTION.md"
               }
             }
           },
@@ -220,20 +194,20 @@
   },
   "active": "bac06de9ac01c88f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Daily Notes  for The 20th May 2024.md",
-    "CO2 meeting notes 17 May 2024.md",
-    "Smartshor Academy meeting notes.md",
     "Daily Notes  for The 15th May 2024.md",
     "Untitled 1.canvas",
-    "Recording 20240516151751.webm",
-    "CO2 meeting  notes.md",
+    "Untitled.md",
+    "CO2 meeting notes 17 May 2024.md",
     "FRONTEND CASE DESCRIPTION.md",
-    "Daily Notes  for The 16th May 2024.md",
+    "Recording 20240516152419.webm",
+    "Recording 20240516152339.webm",
     "Recording 20240516152258.webm",
     "Recording 20240516152244.webm",
-    "Recording 20240516152339.webm",
-    "Recording 20240516152419.webm",
+    "Recording 20240516151751.webm",
+    "Smartshor Academy meeting notes.md",
+    "Daily Notes  for The 20th May 2024.md",
+    "CO2 meeting  notes.md",
+    "Daily Notes  for The 16th May 2024.md",
     "Untitled.canvas",
     "Work/CO2/CO2 - Backed meeting login and other endpoints.md",
     "GEMENI API.md",
@@ -254,7 +228,6 @@
     "Archived/Daily Notes  for The 29th Apr 2024.md",
     "Daily Notes  for The 26th Apr 2024.md",
     "Daily Notes  for The 24th Apr 2024.md",
-    "Archived/Daily Notes  for The 19th Apr 2024.md",
     "Work/CO2",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Personal/CS gifts",
