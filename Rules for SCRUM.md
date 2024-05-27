@@ -1,0 +1,3 @@
+	- What i'm working on
+	- What i will work for after that
+	- and what are my blockers
