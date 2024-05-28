@@ -1,0 +1,1 @@
+update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025
