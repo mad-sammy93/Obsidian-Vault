@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRA.md",
+                "file": "Daily Notes  for The 27th May 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRA.md",
+                "file": "Daily Notes  for The 27th May 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRA.md"
+                "file": "Daily Notes  for The 27th May 2024.md"
               }
             }
           },
@@ -244,12 +244,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4d67aebf6957585c",
+  "active": "5b5ece79dc790af4",
   "lastOpenFiles": [
+    "Daily Notes  for The 28th May 2024.md",
+    "update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
     "CRA.md",
     "Daily Notes  for The 27th May 2024.md",
-    "update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
-    "Daily Notes  for The 28th May 2024.md",
     "Untitled.md",
     "Work/Voice Booking/<DONE> Ticket desc template.md",
     "Work/Voice Booking/VB-402.md",
