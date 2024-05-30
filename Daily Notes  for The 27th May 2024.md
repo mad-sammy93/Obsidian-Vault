@@ -25,4 +25,16 @@ administrator@hubblefleet.nl
 
 `WB4NqgO'gOS!jA`
 
+```
+admin@smartshore.com
+```
 
+
+`admin`
+
+add link back forward 
+add limitation for time date
+
+
+30min call with Radhika
+10 mins call with Seetpal
