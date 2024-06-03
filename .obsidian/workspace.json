@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 27th May 2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "204ecc3f6720a1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 28th May 2024.md",
+                "file": "CRA estimation meeting 3rd June 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 27th May 2024.md",
+                "file": "CRA estimation meeting 3rd June 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 27th May 2024.md",
+                "file": "CRA estimation meeting 3rd June 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 27th May 2024.md"
+                "file": "CRA estimation meeting 3rd June 2024.md"
               }
             }
           },
@@ -246,9 +233,12 @@
   },
   "active": "5b5ece79dc790af4",
   "lastOpenFiles": [
-    "Daily Notes  for The 28th May 2024.md",
-    "update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
     "CRA.md",
+    "update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
+    "CRA estimation meeting 3rd June 2024.md",
+    "Rules for SCRUM.md",
+    "CO2 meeting notes 17 May 2024.md",
+    "Daily Notes  for The 28th May 2024.md",
     "Daily Notes  for The 27th May 2024.md",
     "Untitled.md",
     "Work/Voice Booking/<DONE> Ticket desc template.md",
@@ -257,9 +247,7 @@
     "Work/Voice Booking/_ Comment while deploying to stage VB.md",
     "Work/Voice Booking/settings.md",
     "HUbble 2 commands.md",
-    "Rules for SCRUM.md",
     "CO2 meeting 23 may.md",
-    "CO2 meeting notes 17 May 2024.md",
     "FRONTEND CASE DESCRIPTION.md",
     "Daily Notes  for The 15th May 2024.md",
     "Untitled 1.canvas",
@@ -278,7 +266,6 @@
     "<IMP>Things to implement today on development.md",
     "spelling bee.md",
     "UDEMY.md",
-    "Smarthore academy notes.md",
     "Recording 20240506170929.webm",
     "Recording 20240506170917.webm",
     "Work/CO2",
