@@ -92,7 +92,7 @@
               "type": "markdown",
               "state": {
                 "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
+                "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
+                "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md"
+                "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md"
               }
             }
           },
@@ -309,12 +309,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b4d358da95244c93",
+  "active": "7bb61a4ef62bcc9b",
   "lastOpenFiles": [
-    "Work/CO2/CRA estimation meeting 3rd June 2024.md",
-    "Work/CO2/CO2 meeting notes 17 May 2024.md",
+    "Work/SmartshoreAcademy/Smarthore academy notes.md",
     "Work/CO2/Daily Notes  for The 27th May 2024.md",
+    "Work/CO2/CRA estimation meeting 3rd June 2024.md",
     "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
+    "Work/CO2/CO2 meeting notes 17 May 2024.md",
     "Work/CO2/CRA.md",
     "Work/CO2/HUbble 2 commands.md",
     "Daily Notes  for The 28th May 2024.md",
@@ -324,7 +325,6 @@
     "Work/CO2/CO2 meeting 23 may.md",
     "Work/SmartshoreAcademy/FRONTEND CASE DESCRIPTION.md",
     "VB README.md",
-    "Work/SmartshoreAcademy/Smarthore academy notes.md",
     "Daily Notes  for The 20th May 2024.md",
     "Work/SmartshoreAcademy/Smartshor Academy meeting notes.md",
     "Work/SmartshoreAcademy/Daily Notes  for The 15th May 2024.md",
