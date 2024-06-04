@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9ae2fc38b9280fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/CO2/CRA.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7bb61a4ef62bcc9b",
             "type": "leaf",
             "state": {
@@ -85,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,8 +233,8 @@
   "active": "7bb61a4ef62bcc9b",
   "lastOpenFiles": [
     "Work/CO2/CRA.md",
-    "Work/CO2/CO2 meeting notes 17 May 2024.md",
     "Work/CO2/CRA estimation meeting 3rd June 2024.md",
+    "Work/CO2/CO2 meeting notes 17 May 2024.md",
     "Work/CO2/Rules for SCRUM.md",
     "Work/SmartshoreAcademy/Smarthore academy notes.md",
     "Work/CO2/Daily Notes  for The 27th May 2024.md",
