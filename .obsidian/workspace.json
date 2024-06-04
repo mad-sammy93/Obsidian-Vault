@@ -71,8 +71,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4f9789d2ae484f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/CO2/CRA estimation meeting 3rd June 2024.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -230,10 +244,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7bb61a4ef62bcc9b",
+  "active": "4f9789d2ae484f7b",
   "lastOpenFiles": [
-    "Work/CO2/CRA.md",
+    "Untitled.md",
     "Work/CO2/CRA estimation meeting 3rd June 2024.md",
+    "Work/CO2/CRA.md",
     "Work/CO2/CO2 meeting notes 17 May 2024.md",
     "Work/CO2/Rules for SCRUM.md",
     "Work/SmartshoreAcademy/Smarthore academy notes.md",
