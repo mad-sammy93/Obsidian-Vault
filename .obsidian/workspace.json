@@ -71,22 +71,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4f9789d2ae484f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md"
               }
             }
           },
@@ -244,16 +231,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4f9789d2ae484f7b",
+  "active": "b4d358da95244c93",
   "lastOpenFiles": [
+    "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
     "Untitled.md",
-    "Work/CO2/CRA estimation meeting 3rd June 2024.md",
     "Work/CO2/CRA.md",
+    "Work/CO2/CRA estimation meeting 3rd June 2024.md",
     "Work/CO2/CO2 meeting notes 17 May 2024.md",
     "Work/CO2/Rules for SCRUM.md",
     "Work/SmartshoreAcademy/Smarthore academy notes.md",
     "Work/CO2/Daily Notes  for The 27th May 2024.md",
-    "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
     "Work/CO2/HUbble 2 commands.md",
     "Daily Notes  for The 28th May 2024.md",
     "Untitled.canvas",
