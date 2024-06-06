@@ -38,3 +38,6 @@ add limitation for time date
 
 30min call with Radhika
 10 mins call with Seetpal
+
+
+![[Pasted image 20240605182814.png]]
