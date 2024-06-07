@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDEMY.md",
+                "file": "Daily Notes  for The 7th Jun 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "356c55f7df51db0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDEMY.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDEMY.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDEMY.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -178,8 +192,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7bb61a4ef62bcc9b",
+  "active": "356c55f7df51db0b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Daily Notes  for The 7th Jun 2024.md",
     "UDEMY.md",
     "<IMP>Things to implement today on development.md",
@@ -214,7 +229,6 @@
     "Recording 20240516152258.webm",
     "Recording 20240516152244.webm",
     "Recording 20240516151751.webm",
-    "CO2 meeting  notes.md",
     "Recording 20240506170929.webm",
     "Recording 20240506170917.webm",
     "Work/CO2",
