@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question to ask seetpal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "183ae39a445628e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 7th Jun 2024.md",
+                "file": "UDEMY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Question to ask seetpal.md",
+                "file": "UDEMY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Question to ask seetpal.md",
+                "file": "UDEMY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Question to ask seetpal.md"
+                "file": "UDEMY.md"
               }
             }
           },
@@ -194,6 +181,9 @@
   "active": "7bb61a4ef62bcc9b",
   "lastOpenFiles": [
     "Daily Notes  for The 7th Jun 2024.md",
+    "UDEMY.md",
+    "<IMP>Things to implement today on development.md",
+    "Work/SmartshoreAcademy/FRONTEND CASE DESCRIPTION.md",
     "Question to ask seetpal.md",
     "Work/CO2/CRA.md",
     "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
@@ -208,7 +198,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Work/CO2/CO2 meeting 23 may.md",
-    "Work/SmartshoreAcademy/FRONTEND CASE DESCRIPTION.md",
     "VB README.md",
     "Daily Notes  for The 20th May 2024.md",
     "Work/SmartshoreAcademy/Smartshor Academy meeting notes.md",
@@ -226,8 +215,6 @@
     "Recording 20240516152244.webm",
     "Recording 20240516151751.webm",
     "CO2 meeting  notes.md",
-    "Work/CO2/CO2 - Backed meeting login and other endpoints.md",
-    "GEMENI API.md",
     "Recording 20240506170929.webm",
     "Recording 20240506170917.webm",
     "Work/CO2",
