@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 7th Jun 2024.md",
+                "file": "Question to ask seetpal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Question to ask seetpal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Question to ask seetpal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Question to ask seetpal.md"
               }
             }
           },
@@ -192,10 +191,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "356c55f7df51db0b",
+  "active": "7bb61a4ef62bcc9b",
   "lastOpenFiles": [
-    "Untitled.md",
     "Daily Notes  for The 7th Jun 2024.md",
+    "Untitled.md",
     "UDEMY.md",
     "<IMP>Things to implement today on development.md",
     "Work/SmartshoreAcademy/FRONTEND CASE DESCRIPTION.md",
