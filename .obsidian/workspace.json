@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/CO2/CRA-55 Checkbox logic.md",
+                "file": "Question to ask seetpal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
+                "file": "Question to ask seetpal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
+                "file": "Question to ask seetpal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md"
+                "file": "Question to ask seetpal.md"
               }
             }
           },
@@ -191,7 +192,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7bb61a4ef62bcc9b",
+  "active": "356c55f7df51db0b",
   "lastOpenFiles": [
     "Work/CO2/CRA-55 Checkbox logic.md",
     "Work/CO2/Daily Notes  for The 27th May 2024.md",
