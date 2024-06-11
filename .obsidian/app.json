@@ -2,5 +2,5 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": false
 }

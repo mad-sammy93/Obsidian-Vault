@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question to ask seetpal.md",
-                "mode": "source",
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/CO2/CRA-55 Checkbox logic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Question to ask seetpal.md",
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Question to ask seetpal.md",
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Question to ask seetpal.md"
+                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md"
               }
             }
           },
@@ -193,26 +193,28 @@
   },
   "active": "7bb61a4ef62bcc9b",
   "lastOpenFiles": [
-    "Daily Notes  for The 7th Jun 2024.md",
-    "Untitled.md",
+    "Work/CO2/CRA-55 Checkbox logic.md",
+    "Work/CO2/Daily Notes  for The 27th May 2024.md",
+    "Pasted image 20240605182814.png",
+    "VB README.md",
+    "Untitled.canvas",
     "UDEMY.md",
+    "spelling bee.md",
+    "GEMENI API.md",
+    "Question to ask seetpal.md",
+    "Daily Notes  for The 7th Jun 2024.md",
     "<IMP>Things to implement today on development.md",
     "Work/SmartshoreAcademy/FRONTEND CASE DESCRIPTION.md",
-    "Question to ask seetpal.md",
     "Work/CO2/CRA.md",
     "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
-    "Work/CO2/Daily Notes  for The 27th May 2024.md",
     "Work/SmartshoreAcademy/Smarthore academy notes.md",
     "Work/CO2/CRA estimation meeting 3rd June 2024.md",
-    "Pasted image 20240605182814.png",
     "Work/CO2/CO2 meeting notes 17 May 2024.md",
     "Work/CO2/Rules for SCRUM.md",
     "Work/CO2/HUbble 2 commands.md",
     "Daily Notes  for The 28th May 2024.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Work/CO2/CO2 meeting 23 may.md",
-    "VB README.md",
     "Daily Notes  for The 20th May 2024.md",
     "Work/SmartshoreAcademy/Smartshor Academy meeting notes.md",
     "Work/SmartshoreAcademy/Daily Notes  for The 15th May 2024.md",
@@ -220,9 +222,6 @@
     "Work/SmartshoreAcademy",
     "Work/Voice Booking/<DONE> Ticket desc template.md",
     "Work/Voice Booking/VB-402.md",
-    "Work/Voice Booking/Currently, For the availability indicator tooltip next to the Image,  there are 2 hardcoded conditions based on availability->value which can take values available and unknown.Will this condition change to handle more values?.md",
-    "Work/Voice Booking/_ Comment while deploying to stage VB.md",
-    "Work/Voice Booking/settings.md",
     "Recording 20240516152419.webm",
     "Recording 20240516152339.webm",
     "Recording 20240516152258.webm",
