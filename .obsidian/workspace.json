@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f11dc9b5582f12bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/CO2/Changes for CRA-54.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -194,18 +207,19 @@
   },
   "active": "356c55f7df51db0b",
   "lastOpenFiles": [
+    "UDEMY.md",
+    "VB README.md",
+    "Daily Notes  for The 7th Jun 2024.md",
+    "Untitled.canvas",
+    "Work/CO2/Pasted image 20240605182814.png",
+    "Work/CO2/Question to ask seetpal.md",
+    "Work/CO2/Changes for CRA-54.md",
+    "Work/CO2/Daily Notes  for The 27th May 2024.md",
     "Work/CO2/CRA-55 Checkbox logic.md",
     "Work/CO2/CRA estimation meeting 3rd June 2024.md",
     "Work/CO2/CRA.md",
-    "Question to ask seetpal.md",
-    "Work/CO2/Daily Notes  for The 27th May 2024.md",
-    "Pasted image 20240605182814.png",
-    "VB README.md",
-    "Untitled.canvas",
-    "UDEMY.md",
     "spelling bee.md",
     "GEMENI API.md",
-    "Daily Notes  for The 7th Jun 2024.md",
     "<IMP>Things to implement today on development.md",
     "Work/SmartshoreAcademy/FRONTEND CASE DESCRIPTION.md",
     "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
@@ -222,7 +236,6 @@
     "Work/SmartshoreAcademy/Daily Notes  for The 16th May 2024.md",
     "Work/SmartshoreAcademy",
     "Work/Voice Booking/<DONE> Ticket desc template.md",
-    "Work/Voice Booking/VB-402.md",
     "Recording 20240516152419.webm",
     "Recording 20240516152339.webm",
     "Recording 20240516152258.webm",

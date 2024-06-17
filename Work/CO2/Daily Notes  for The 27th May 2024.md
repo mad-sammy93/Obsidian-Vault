@@ -43,22 +43,4 @@ add limitation for time date
 ![[Pasted image 20240605182814.png]]
 
 
-create 2 layouts
-
-FOr 992-1023
-Make fields line 
-calculations on right
-
-parent routes >chcilderen routes
-driver rioutes
-
- - [ ] restore @para-xs restore
-
- - [x] change export interface  to  type 
- - [ ] 
-
-
-
-Rebase with Cra81
-
 
