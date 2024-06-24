@@ -3,7 +3,7 @@ create 2 layouts
 
 FOr 992-1023
 - [x] Make fields width 100%
-- [x] calculations on right
+- [x] calculations on rightS
 
 - [x] parent routes >chcilderen routes
 - [x] driver rioutes
