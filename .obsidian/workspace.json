@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/CO2/Daily Notes  for The 27th May 2024.md",
-                "mode": "preview",
+                "file": "Daily Notes  for The 24th Jun 2024.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CREDENTIALS.md",
+                "file": "Daily Notes  for The 24th Jun 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CREDENTIALS.md",
+                "file": "Daily Notes  for The 24th Jun 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CREDENTIALS.md"
+                "file": "Daily Notes  for The 24th Jun 2024.md"
               }
             }
           },
@@ -191,8 +190,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "356c55f7df51db0b",
+  "active": "7bb61a4ef62bcc9b",
   "lastOpenFiles": [
+    "Work/CO2/Daily Notes  for The 27th May 2024.md",
+    "CREDENTIALS.md",
     "Untitled.canvas",
     "VB README.md",
     "Daily Notes  for The 24th Jun 2024.md",
@@ -201,10 +202,8 @@
     "Daily Notes  for The 18th Jun 2024.md",
     "Daily Notes  for The 19th Jun 2024.md",
     "Work/CO2/<DONE> Changes for CRA-54.md",
-    "Work/CO2/Daily Notes  for The 27th May 2024.md",
     "Work/CO2/Pasted image 20240605182814.png",
     "Work/CO2/CRA.md",
-    "CREDENTIALS.md",
     "Daily Notes  for The 7th Jun 2024.md",
     "Work/CO2/Question to ask seetpal.md",
     "Work/CO2/CRA-55 Checkbox logic.md",
