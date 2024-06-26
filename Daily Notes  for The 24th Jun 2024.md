@@ -14,4 +14,4 @@ Time 3 - 4:14 : 45m
 
 
 
-mobile gap shoud be 48 32
+DONE mobile gap shoud be 48 32
