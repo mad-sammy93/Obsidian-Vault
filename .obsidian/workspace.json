@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c14feb5251675ab4",
+        "id": "ecd86483ed233e02",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a2a08bf3b4c016",
+            "id": "c23f94b06d691451",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "demo notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demo notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demo notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "demo notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,10 +168,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d6a2a08bf3b4c016",
+  "active": "c23f94b06d691451",
   "lastOpenFiles": [
-    "demo notes.md",
     "CO2 Demo.md",
+    "Work/CO2/<DONE> demo notes.md",
     "<IMP>Things to implement today on development.md",
     "Untitled.md",
     "Untitled.canvas",
