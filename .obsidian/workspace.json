@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "709f5798708a4370",
+            "id": "d6a2a08bf3b4c016",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CO2 Demo.md",
-                "mode": "preview",
+                "file": "demo notes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CO2 Demo.md",
+                "file": "demo notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CO2 Demo.md",
+                "file": "demo notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CO2 Demo.md"
+                "file": "demo notes.md"
               }
             }
           },
@@ -177,10 +177,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "709f5798708a4370",
+  "active": "d6a2a08bf3b4c016",
   "lastOpenFiles": [
-    "<IMP>Things to implement today on development.md",
+    "demo notes.md",
     "CO2 Demo.md",
+    "<IMP>Things to implement today on development.md",
     "Untitled.md",
     "Untitled.canvas",
     "Work/Voice Booking/VB README.md",
@@ -206,7 +207,6 @@
     "Work/CO2/update CompanySetting set smtpHost = 'mailHog', smtpPort = 1025.md",
     "Work/SmartshoreAcademy/Smarthore academy notes.md",
     "Work/CO2/CO2 meeting notes 17 May 2024.md",
-    "Work/CO2/Rules for SCRUM.md",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
     "Recording 20240516152419.webm",
