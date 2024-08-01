@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "env hbl.md",
-                "mode": "source",
+                "file": "Personal/CIVIL.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "env hbl.md",
+                "file": "Personal/CIVIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "env hbl.md",
+                "file": "Personal/CIVIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "env hbl.md"
+                "file": "Personal/CIVIL.md"
               }
             }
           },
@@ -193,6 +193,9 @@
   },
   "active": "28fe2da182fc6dfe",
   "lastOpenFiles": [
+    "Daily Notes  for The 31st Jul 2024.md",
+    "Personal/CIVIL.md",
+    "env hbl.md",
     "Untitled 1.md",
     "TODO.md",
     "List of Bugs.md",
@@ -202,7 +205,6 @@
     "Untitled.md",
     "CREDENTIALS.md",
     "Daily Notes  for The 30th Jul 2024.md",
-    "env hbl.md",
     "Daily Notes  for The 26th Jul 2024.md",
     "Work/CO2/<DONE> demo notes.md",
     "<IMP>Things to implement today on development.md",
@@ -220,7 +222,6 @@
     "Work/CO2/<DONE> Changes for CRA-54.md",
     "Work/CO2/Pasted image 20240605182814.png",
     "Work/CO2/CRA.md",
-    "Daily Notes  for The 7th Jun 2024.md",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
     "Recording 20240516152419.webm",
