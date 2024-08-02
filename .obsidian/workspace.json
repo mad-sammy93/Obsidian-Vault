@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Work/Devops Discussion/<IMP>Things to implement today on development 1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 1st Aug 2024.md",
+                "file": "Work/LEARN/POKE/Daily Notes  for The 1st Aug 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/Devops Discussion/<IMP>Things to implement today on development 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/Devops Discussion/<IMP>Things to implement today on development 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Work/Devops Discussion/<IMP>Things to implement today on development 1.md"
               }
             }
           },
@@ -190,27 +190,29 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d1725b1350e8418e",
+  "active": "73d13ca32762c067",
   "lastOpenFiles": [
-    "login cred 1.md",
-    "Daily Notes  for The 1st Aug 2024.md",
-    "Personal/CIVIL.md",
-    "Daily Notes  for The 31st Jul 2024.md",
-    "env hbl.md",
-    "Untitled 1.md",
-    "TODO.md",
-    "List of Bugs.md",
-    "Pasted image 20240730185401.png",
-    "CO2 Demo.md",
-    "Untitled.md",
-    "CREDENTIALS.md",
-    "Daily Notes  for The 30th Jul 2024.md",
-    "Daily Notes  for The 26th Jul 2024.md",
-    "Work/CO2/<DONE> demo notes.md",
-    "<IMP>Things to implement today on development.md",
+    "Work/LEARN/GEMENI API.md",
     "Untitled.canvas",
+    "Work/LEARN/CREDENTIALS.md",
+    "Work/CO2/login cred 1.md",
+    "Work/CO2/CO2 Demo.md",
+    "Work/CO2/Untitled 1.md",
+    "Work/CO2/env hbl.md",
+    "Work/CO2/Pasted image 20240730185401.png",
+    "Daily Notes  for The 26th Jul 2024.md",
+    "Daily Notes  for The 30th Jul 2024.md",
+    "Work/CO2/<DONE>TODO.md",
+    "Work/CO2/List of Bugs.md",
+    "Work/LEARN/POKE/Daily Notes  for The 31st Jul 2024.md",
+    "Work/LEARN/POKE/Daily Notes  for The 1st Aug 2024.md",
+    "Work/LEARN/POKE",
+    "Work/LEARN",
+    "Work/CO2/<DONE>Untitled.md",
+    "Personal/CIVIL.md",
+    "Work/CO2/<DONE> demo notes.md",
+    "Work/Devops Discussion/<IMP>Things to implement today on development 1.md",
     "Work/Voice Booking/VB README.md",
-    "GEMENI API.md",
     "Archived/<DONE>calculations.md",
     "Daily Notes  for The 2nd Jul 2024.md",
     "Work/CO2/<DONE>Changes CO2.md",
@@ -219,7 +221,6 @@
     "Daily Notes  for The 17th Jun 2024.md",
     "Daily Notes  for The 18th Jun 2024.md",
     "Daily Notes  for The 19th Jun 2024.md",
-    "Work/CO2/<DONE> Changes for CRA-54.md",
     "Work/CO2/Pasted image 20240605182814.png",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
@@ -230,8 +231,6 @@
     "Recording 20240516151751.webm",
     "Recording 20240506170929.webm",
     "Recording 20240506170917.webm",
-    "Work/CO2",
-    "Obsidian Vault Apr 9 2024/Obsidian Vault/Archived",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Untitled.canvas",
     "Obsidian-Vault/Untitled.canvas",
     "Pasted image 20240216130717.png",
