@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "login cred 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/CIVIL.md",
-                "mode": "preview",
+                "file": "Daily Notes  for The 1st Aug 2024.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CIVIL.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CIVIL.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CIVIL.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -191,16 +190,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "28fe2da182fc6dfe",
+  "active": "d1725b1350e8418e",
   "lastOpenFiles": [
-    "Daily Notes  for The 31st Jul 2024.md",
+    "login cred 1.md",
+    "Daily Notes  for The 1st Aug 2024.md",
     "Personal/CIVIL.md",
+    "Daily Notes  for The 31st Jul 2024.md",
     "env hbl.md",
     "Untitled 1.md",
     "TODO.md",
     "List of Bugs.md",
     "Pasted image 20240730185401.png",
-    "login cred 1.md",
     "CO2 Demo.md",
     "Untitled.md",
     "CREDENTIALS.md",
@@ -221,7 +221,6 @@
     "Daily Notes  for The 19th Jun 2024.md",
     "Work/CO2/<DONE> Changes for CRA-54.md",
     "Work/CO2/Pasted image 20240605182814.png",
-    "Work/CO2/CRA.md",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
     "Recording 20240516152419.webm",
