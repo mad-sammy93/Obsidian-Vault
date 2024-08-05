@@ -11,14 +11,12 @@
             "id": "d1725b1350e8418e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 445.2930025485714,
-                  "y": 136.4467314959416,
-                  "zoom": -0.41840435037724233
-                }
+                "file": "Daily Notes  for The 5th Aug 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Devops Discussion/VScode settings.md",
+                "file": "Daily Notes  for The 5th Aug 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Devops Discussion/VScode settings.md",
+                "file": "Daily Notes  for The 5th Aug 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Devops Discussion/VScode settings.md"
+                "file": "Daily Notes  for The 5th Aug 2024.md"
               }
             }
           },
@@ -194,11 +192,13 @@
   },
   "active": "d1725b1350e8418e",
   "lastOpenFiles": [
+    "asdsad.md",
+    "Daily Notes  for The 5th Aug 2024.md",
+    "LEARN/CREDENTIALS.md",
     "template.png",
+    "Untitled.canvas",
     "Work/Devops Discussion/<IMP>Things to implement today on development 1.md",
     "LEARN/GEMENI API.md",
-    "Untitled.canvas",
-    "LEARN/CREDENTIALS.md",
     "Work/CO2/login cred 1.md",
     "Work/CO2/CO2 Demo.md",
     "Work/CO2/Untitled 1.md",
@@ -223,7 +223,6 @@
     "Notes on form.md",
     "Daily Notes  for The 17th Jun 2024.md",
     "Daily Notes  for The 18th Jun 2024.md",
-    "Daily Notes  for The 19th Jun 2024.md",
     "Work/CO2/Pasted image 20240605182814.png",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
