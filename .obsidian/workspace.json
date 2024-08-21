@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "CIVIL notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b8bef3bdc5527eb",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK ON CO2.md",
+                "file": "CIVIL notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORK ON CO2.md",
+                "file": "CIVIL notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK ON CO2.md"
+                "file": "CIVIL notes.md"
               }
             }
           },
@@ -190,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +206,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "28270a7253d152d0",
+  "active": "36ea9b71e621a941",
   "lastOpenFiles": [
     "WORK ON CO2.md",
-    "notes.md",
+    "CIVIL notes.md",
     "DB CONFIG.md",
     "Daily Notes  for The 21st Aug 2024.md",
     "Daily Notes  for The 5th Aug 2024.md",
