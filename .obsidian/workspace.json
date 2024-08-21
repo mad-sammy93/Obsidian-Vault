@@ -19,8 +19,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "36ea9b71e621a941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "28270a7253d152d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK ON CO2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB CONFIG.md",
+                "file": "WORK ON CO2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB CONFIG.md",
+                "file": "WORK ON CO2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB CONFIG.md"
+                "file": "WORK ON CO2.md"
               }
             }
           },
@@ -177,10 +204,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d1725b1350e8418e",
+  "active": "28270a7253d152d0",
   "lastOpenFiles": [
-    "Daily Notes  for The 21st Aug 2024.md",
+    "WORK ON CO2.md",
+    "notes.md",
     "DB CONFIG.md",
+    "Daily Notes  for The 21st Aug 2024.md",
     "Daily Notes  for The 5th Aug 2024.md",
     "Daily Notes  for The 8th Aug 2024.md",
     "Daily Notes  for The 20th Aug 2024.md",
@@ -208,8 +237,6 @@
     "Work/Voice Booking/VB README.md",
     "Archived/<DONE>calculations.md",
     "Daily Notes  for The 2nd Jul 2024.md",
-    "Work/CO2/<DONE>Changes CO2.md",
-    "Work/CO2/Daily Notes  for The 27th May 2024.md",
     "Work/CO2/Pasted image 20240605182814.png",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
