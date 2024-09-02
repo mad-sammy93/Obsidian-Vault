@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "36ea9b71e621a941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REstaurant website.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "28270a7253d152d0",
             "type": "leaf",
             "state": {
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b8bef3bdc5527eb",
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REstaurant website.md",
+                "file": "DB CONFIG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REstaurant website.md",
+                "file": "DB CONFIG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REstaurant website.md"
+                "file": "DB CONFIG.md"
               }
             }
           },
@@ -206,40 +191,40 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "36ea9b71e621a941",
+  "active": "d1725b1350e8418e",
   "lastOpenFiles": [
     "WORK ON CO2.md",
-    "REstaurant website.md",
-    "CIVIL notes.md",
     "DB CONFIG.md",
-    "Daily Notes  for The 21st Aug 2024.md",
-    "Daily Notes  for The 5th Aug 2024.md",
+    "REstaurant website.md",
+    "Daily Notes  for The 29th Aug 2024.md",
+    "CIVIL notes.md",
     "Daily Notes  for The 8th Aug 2024.md",
+    "Daily Notes  for The 21st Aug 2024.md",
     "Daily Notes  for The 20th Aug 2024.md",
-    "LEARN/POKE/Daily Notes  for The 1st Aug 2024.md",
-    "LEARN/CREDENTIALS.md",
-    "template.png",
     "Untitled.canvas",
-    "Work/Devops Discussion/<IMP>Things to implement today on development 1.md",
-    "LEARN/GEMENI API.md",
-    "Work/CO2/login cred 1.md",
-    "Work/CO2/CO2 Demo.md",
-    "Work/CO2/Untitled 1.md",
-    "Work/CO2/env hbl.md",
+    "Daily Notes  for The 5th Aug 2024.md",
+    "template.png",
+    "LEARN/CREDENTIALS.md",
+    "Archived/friday shubam opaid.md",
+    "Archived/Daily Notes  for The 9th Jan 2024.md",
+    "Archived/Daily Notes  for The 7th Dec 2023.md",
+    "Archived/Repo installation.md",
+    "Archived/DD PR estimates.md",
+    "Archived/Daily Notes  for The 29th Jan 2024.md",
+    "Archived/Daily Notes  for The 10th Apr 2024.md",
+    "Archived/Daily Notes  for The 19th Apr 2024.md",
+    "Archived/<DONE>calculations.md",
+    "Archived/Daily Notes  for The 29th Apr 2024.md",
+    "Work/CO2/CO2 - Backed meeting login and other endpoints.md",
+    "Work/CO2/CO2 meeting 23 may.md",
+    "Work/CO2/CRA-55 Checkbox logic.md",
+    "Work/CO2/Question to ask seetpal.md",
+    "Work/CO2/Daily Notes  for The 27th May 2024.md",
+    "Work/CO2/<DONE> Changes for CRA-54.md",
     "Work/CO2/Pasted image 20240730185401.png",
-    "Daily Notes  for The 26th Jul 2024.md",
-    "Daily Notes  for The 30th Jul 2024.md",
-    "Work/CO2/<DONE>TODO.md",
-    "Work/CO2/List of Bugs.md",
-    "LEARN/POKE/Daily Notes  for The 31st Jul 2024.md",
+    "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
     "LEARN",
-    "Work/CO2/<DONE>Untitled.md",
-    "Personal/CIVIL.md",
-    "Work/CO2/<DONE> demo notes.md",
-    "Work/Voice Booking/VB README.md",
-    "Archived/<DONE>calculations.md",
-    "Work/CO2/Pasted image 20240605182814.png",
     "Untitled 1.canvas",
     "Work/SmartshoreAcademy",
     "Recording 20240516152419.webm",
