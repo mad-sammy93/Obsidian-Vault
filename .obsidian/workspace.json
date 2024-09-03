@@ -26,28 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK ON CO2.md",
+                "file": "Pending work ON co2.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c37b4b896c84516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUbble2 env.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUbble2 env.md",
+                "file": "Pending work ON co2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUbble2 env.md",
+                "file": "Pending work ON co2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUbble2 env.md"
+                "file": "Pending work ON co2.md"
               }
             }
           },
@@ -205,12 +192,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8c37b4b896c84516",
+  "active": "28270a7253d152d0",
   "lastOpenFiles": [
     "HUbble2 env.md",
     "co2 frontend env.md",
     "DB CONFIG.md",
-    "WORK ON CO2.md",
+    "Pending work ON co2.md",
     "REstaurant website.md",
     "Daily Notes  for The 29th Aug 2024.md",
     "CIVIL notes.md",
