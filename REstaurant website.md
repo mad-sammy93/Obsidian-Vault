@@ -6,11 +6,11 @@ The Curry Blend
 Naan Fusion
 
 
+
 **Navigation**
 Menu 
 
 About
-menu
 Chefs
 dishes
 contact
@@ -27,5 +27,22 @@ contact
 banner section
 - full width
 - links contact
+- ISP
 
 section for 
+
+
+
+
+
+
+1Home page > isp
+- hygene and alll, 
+2chefs info
+3 Dishes page
+- categorues
+- veg  / nonveg
+- cuisines
+- 
+
+
