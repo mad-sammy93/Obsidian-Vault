@@ -20,5 +20,5 @@ seetpal_admin@smartshore.nl
 
 {  
 "_username": " 202408co2test10@hubblefleet.nl " ,  
-"_password": " Donderdag11072024!!    
+	"_password": " Donderdag11072024!!    
 }
