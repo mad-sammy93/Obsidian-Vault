@@ -32,6 +32,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4f21bccfb3f89c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -194,7 +207,9 @@
   },
   "active": "3401e1b9ea9f43bc",
   "lastOpenFiles": [
+    "Untitled.md",
     "CO2.md",
+    "Daily Notes  for The 16th Sep 2024.md",
     "Daily Notes  SRRS.md",
     "REstaurant website.md",
     "co2 frontend env.md",
@@ -220,8 +235,6 @@
     "Archived/Daily Notes  for The 29th Jan 2024.md",
     "Archived/Daily Notes  for The 10th Apr 2024.md",
     "Archived/Daily Notes  for The 19th Apr 2024.md",
-    "Archived/<DONE>calculations.md",
-    "Archived/Daily Notes  for The 29th Apr 2024.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
