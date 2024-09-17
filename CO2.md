@@ -27,3 +27,4 @@ seetpal_admin@smartshore.nl
 clear the fields on fetch new  google addres
 
 if address is incorrect 
+unmark checkbox and hide submit once address is wrong
