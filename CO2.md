@@ -22,3 +22,8 @@ seetpal_admin@smartshore.nl
 "_username": " 202408co2test10@hubblefleet.nl " ,  
 	"_password": " Donderdag11072024!!    
 }
+
+
+clear the fields on fetch new  google addres
+
+if address is incorrect 
