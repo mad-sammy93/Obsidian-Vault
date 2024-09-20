@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30b81fb11789923d",
+            "id": "3401e1b9ea9f43bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  SRRS.md",
+                "file": "Daily Notes  for The 20th Sep 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,19 +21,17 @@
             }
           },
           {
-            "id": "3401e1b9ea9f43bc",
+            "id": "550cc9335137cd22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CO2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Pasted image 20240920124047.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  SRRS.md",
+                "file": "Pasted image 20240920124047.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  SRRS.md",
+                "file": "Pasted image 20240920124047.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  SRRS.md"
+                "file": "Pasted image 20240920124047.png"
               }
             }
           },
@@ -191,11 +189,48 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "30b81fb11789923d",
+  "floating": {
+    "id": "4cbf57e33da1406b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "60759de4fcb0c845",
+        "type": "window",
+        "children": [
+          {
+            "id": "5e97f78949360fc3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "13616507028611cc",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20240920124047.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "13616507028611cc",
   "lastOpenFiles": [
+    "Daily Notes  for The 20th Sep 2024.md",
+    "Pasted image 20240920124047.png",
     "CO2.md",
-    "Untitled.md",
     "Daily Notes  SRRS.md",
+    "Untitled.md",
     "Daily Notes  for The 16th Sep 2024.md",
     "REstaurant website.md",
     "co2 frontend env.md",
@@ -219,8 +254,6 @@
     "Archived/Repo installation.md",
     "Archived/DD PR estimates.md",
     "Archived/Daily Notes  for The 29th Jan 2024.md",
-    "Archived/Daily Notes  for The 10th Apr 2024.md",
-    "Archived/Daily Notes  for The 19th Apr 2024.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
