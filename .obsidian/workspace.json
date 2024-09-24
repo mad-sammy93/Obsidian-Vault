@@ -189,42 +189,7 @@
       "publish:Publish changes...": false
     }
   },
-  "floating": {
-    "id": "4cbf57e33da1406b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60759de4fcb0c845",
-        "type": "window",
-        "children": [
-          {
-            "id": "5e97f78949360fc3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "13616507028611cc",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Pasted image 20240920124047.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 140,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "13616507028611cc",
+  "active": "550cc9335137cd22",
   "lastOpenFiles": [
     "Daily Notes  for The 20th Sep 2024.md",
     "Pasted image 20240920124047.png",
