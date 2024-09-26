@@ -24,9 +24,12 @@
             "id": "550cc9335137cd22",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240920124047.png"
+                "file": "Daily Notes  for The 3rd Sep 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240920124047.png",
+                "file": "Daily Notes  for The 3rd Sep 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240920124047.png",
+                "file": "Daily Notes  for The 3rd Sep 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240920124047.png"
+                "file": "Daily Notes  for The 3rd Sep 2024.md"
               }
             }
           },
@@ -191,17 +194,18 @@
   },
   "active": "550cc9335137cd22",
   "lastOpenFiles": [
-    "Daily Notes  for The 20th Sep 2024.md",
+    "Daily Notes  for The 6th Sep 2024.md",
+    "Daily Notes  for The 3rd Sep 2024.md",
+    "HUbble2 env.md",
+    "co2 frontend env.md",
+    "Daily Notes  for The 24th Sep 2024.md",
     "Pasted image 20240920124047.png",
+    "Daily Notes  for The 20th Sep 2024.md",
     "CO2.md",
     "Daily Notes  SRRS.md",
     "Untitled.md",
     "Daily Notes  for The 16th Sep 2024.md",
     "REstaurant website.md",
-    "co2 frontend env.md",
-    "HUbble2 env.md",
-    "Daily Notes  for The 3rd Sep 2024.md",
-    "Daily Notes  for The 6th Sep 2024.md",
     "Pending work ON co2.md",
     "DB CONFIG.md",
     "Daily Notes  for The 29th Aug 2024.md",
@@ -218,7 +222,6 @@
     "Archived/Daily Notes  for The 7th Dec 2023.md",
     "Archived/Repo installation.md",
     "Archived/DD PR estimates.md",
-    "Archived/Daily Notes  for The 29th Jan 2024.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
