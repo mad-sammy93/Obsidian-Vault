@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 26th Sep 2024.md",
+                "file": "Daily Notes  for The 1st Oct 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "8f99fb6db823677e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 26th Sep 2024.md",
+                "file": "Daily Notes  for The 1st Oct 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 26th Sep 2024.md",
+                "file": "Daily Notes  for The 1st Oct 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes  for The 26th Sep 2024.md"
+                "file": "Daily Notes  for The 1st Oct 2024.md"
               }
             }
           },
@@ -194,8 +202,9 @@
   },
   "active": "550cc9335137cd22",
   "lastOpenFiles": [
-    "Daily Notes  for The 3rd Sep 2024.md",
+    "Daily Notes  for The 1st Oct 2024.md",
     "Daily Notes  for The 26th Sep 2024.md",
+    "Daily Notes  for The 3rd Sep 2024.md",
     "Daily Notes  for The 6th Sep 2024.md",
     "HUbble2 env.md",
     "co2 frontend env.md",
@@ -222,7 +231,6 @@
     "Archived/Daily Notes  for The 9th Jan 2024.md",
     "Archived/Daily Notes  for The 7th Dec 2023.md",
     "Archived/Repo installation.md",
-    "Archived/DD PR estimates.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
