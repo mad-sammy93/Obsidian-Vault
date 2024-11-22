@@ -8,41 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3401e1b9ea9f43bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 20th Sep 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "550cc9335137cd22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 18th Oct 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8f99fb6db823677e",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -77,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -85,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes  for The 18th Oct 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -125,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes  for The 18th Oct 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -139,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes  for The 18th Oct 2024.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -157,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -165,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -177,7 +166,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -200,10 +191,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "550cc9335137cd22",
+  "active": "8f99fb6db823677e",
   "lastOpenFiles": [
-    "Daily Notes  for The 1st Oct 2024.md",
+    "Daily Notes  for The 20th Sep 2024.md",
     "Daily Notes  for The 18th Oct 2024.md",
+    "Daily Notes  for The 25th Oct 2024.md",
+    "Daily Notes  for The 1st Oct 2024.md",
     "Daily Notes  for The 26th Sep 2024.md",
     "Daily Notes  for The 3rd Sep 2024.md",
     "Daily Notes  for The 6th Sep 2024.md",
@@ -211,7 +204,6 @@
     "co2 frontend env.md",
     "Daily Notes  for The 24th Sep 2024.md",
     "Pasted image 20240920124047.png",
-    "Daily Notes  for The 20th Sep 2024.md",
     "CO2.md",
     "Daily Notes  SRRS.md",
     "Untitled.md",
@@ -230,7 +222,6 @@
     "LEARN/CREDENTIALS.md",
     "Archived/friday shubam opaid.md",
     "Archived/Daily Notes  for The 9th Jan 2024.md",
-    "Archived/Daily Notes  for The 7th Dec 2023.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
