@@ -11,10 +11,15 @@
             "id": "8f99fb6db823677e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes  for The 22nd Nov 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Notes  for The 22nd Nov 2024"
             }
           }
         ]
@@ -193,6 +198,7 @@
   },
   "active": "8f99fb6db823677e",
   "lastOpenFiles": [
+    "Daily Notes  for The 22nd Nov 2024.md",
     "Daily Notes  for The 20th Sep 2024.md",
     "Daily Notes  for The 18th Oct 2024.md",
     "Daily Notes  for The 25th Oct 2024.md",
@@ -221,7 +227,6 @@
     "template.png",
     "LEARN/CREDENTIALS.md",
     "Archived/friday shubam opaid.md",
-    "Archived/Daily Notes  for The 9th Jan 2024.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
