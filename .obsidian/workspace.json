@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Daily Notes  for The 22nd Nov 2024"
             }
+          },
+          {
+            "id": "4944520e555c23d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes  for The 4th Dec 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Daily Notes  for The 4th Dec 2024"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,8 +212,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8f99fb6db823677e",
+  "active": "4944520e555c23d2",
   "lastOpenFiles": [
+    "Daily Notes  for The 4th Dec 2024.md",
     "Daily Notes  for The 22nd Nov 2024.md",
     "Daily Notes  for The 20th Sep 2024.md",
     "Daily Notes  for The 18th Oct 2024.md",
@@ -226,7 +243,6 @@
     "Daily Notes  for The 5th Aug 2024.md",
     "template.png",
     "LEARN/CREDENTIALS.md",
-    "Archived/friday shubam opaid.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
