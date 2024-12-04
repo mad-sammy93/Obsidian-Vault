@@ -9,5 +9,7 @@ look into anotations and layering
 
 
 https://ej2.syncfusion.com/vue/documentation/image-editor/annotation#shape-annotation
+https://markerjs.com/docs/customizing-available-markers/
+
 
 
