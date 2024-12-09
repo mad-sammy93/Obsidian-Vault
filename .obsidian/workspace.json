@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 22nd Nov 2024.md",
+                "file": "Things to clarify for Myne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Notes  for The 22nd Nov 2024"
-            }
-          },
-          {
-            "id": "4944520e555c23d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes  for The 9th Dec 2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Daily Notes  for The 9th Dec 2024"
+              "title": "Things to clarify for Myne"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +195,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4944520e555c23d2",
+  "active": "8f99fb6db823677e",
   "lastOpenFiles": [
-    "Things to clarify for Myne.md",
     "Daily Notes  for The 22nd Nov 2024.md",
+    "Daily Notes  for The 9th Dec 2024.md",
+    "Things to clarify for Myne.md",
     "Daily Notes  for The 25th Oct 2024.md",
     "Daily Notes  for The 18th Oct 2024.md",
     "Daily Notes  for The 1st Oct 2024.md",
@@ -230,7 +215,6 @@
     "DB CONFIG.md",
     "Daily Notes  for The 8th Aug 2024.md",
     "Daily Notes  for The 5th Aug 2024.md",
-    "Daily Notes  for The 9th Dec 2024.md",
     "Daily Notes  for The 3rd Sep 2024.md",
     "Daily Notes  for The 6th Sep 2024.md",
     "HUbble2 env.md",
