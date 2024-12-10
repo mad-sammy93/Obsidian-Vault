@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f59527a50f73b1",
+        "id": "b87c7bb06270cb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "8f99fb6db823677e",
+            "id": "3f9f19dbc2b57bed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 10th Dec 2024.md",
-                "mode": "source",
+                "file": "LEARN/Nuxt test project.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Notes  for The 10th Dec 2024"
+              "title": "Nuxt test project"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 404.51103591918945
   },
   "right": {
     "id": "3b8bef3bdc5527eb",
@@ -195,37 +195,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8f99fb6db823677e",
+  "active": "73d13ca32762c067",
   "lastOpenFiles": [
-    "Things to clarify for Myne.md",
-    "Daily Notes  for The 10th Dec 2024.md",
-    "Daily Notes  for The 22nd Nov 2024.md",
+    "LEARN/Daily Notes  for The 25th Oct 2024.md",
     "Daily Notes  for The 9th Dec 2024.md",
-    "Daily Notes  for The 25th Oct 2024.md",
-    "Daily Notes  for The 18th Oct 2024.md",
-    "Daily Notes  for The 1st Oct 2024.md",
-    "Daily Notes  for The 26th Sep 2024.md",
-    "Daily Notes  for The 20th Sep 2024.md",
-    "Pasted image 20240920124047.png",
-    "CO2.md",
-    "Untitled.md",
-    "Daily Notes  for The 16th Sep 2024.md",
-    "co2 frontend env.md",
-    "Pending work ON co2.md",
+    "LEARN/Test menu.md",
+    "Work/CO2/Daily Notes  for The 16th Sep 2024.md",
+    "LEARN/Nuxt test project.md",
     "Untitled.canvas",
-    "DB CONFIG.md",
-    "Daily Notes  for The 8th Aug 2024.md",
-    "Daily Notes  for The 5th Aug 2024.md",
-    "Daily Notes  for The 3rd Sep 2024.md",
-    "Daily Notes  for The 6th Sep 2024.md",
-    "HUbble2 env.md",
-    "Daily Notes  for The 24th Sep 2024.md",
+    "Personal/Conky settings.md",
+    "Work/CO2/Untitled.md",
+    "<DONE> Daily Notes  for The 1st Oct 2024.md",
+    "Personal/List of websites worked.md",
+    "Work/CO2/Pasted image 20240920124047.png",
+    "Work/CO2/Daily Notes  for The 20th Sep 2024.md",
+    "Work/CO2/CO2.md",
+    "LEARN/Daily Notes  for The 5th Aug 2024.md",
     "Daily Notes  SRRS.md",
-    "REstaurant website.md",
-    "Daily Notes  for The 29th Aug 2024.md",
-    "CIVIL notes.md",
-    "Daily Notes  for The 21st Aug 2024.md",
+    "LEARN/DB CONFIG.md",
+    "Work/CO2/co2 frontend env.md",
+    "Personal/CIVIL notes.md",
+    "LEARN/REstaurant website.md",
     "template.png",
+    "Personal/Daily Notes  for The 8th Aug 2024.md",
+    "Work/CO2/Pending work ON co2.md",
+    "Work/CO2/HUbble2 env.md",
+    "Work/CO2/Daily Notes  for The 3rd Sep 2024.md",
+    "Work/CO2/Co2 env.md",
+    "Work/Myne/Things to clarify for Myne.md",
+    "Work/Myne/Myne .env.md",
+    "Work/Myne",
+    "Work/Myne/Daily Notes  for The 10th Dec 2024.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
@@ -238,7 +238,6 @@
     "Recording 20240516152244.webm",
     "Recording 20240516151751.webm",
     "Recording 20240506170929.webm",
-    "Recording 20240506170917.webm",
     "Obsidian Vault Apr 9 2024/Obsidian Vault/Untitled.canvas",
     "Obsidian-Vault/Untitled.canvas",
     "Pasted image 20240216130717.png",
