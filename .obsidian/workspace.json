@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEARN/Nuxt test project.md",
-                "mode": "preview",
+                "file": "Daily Notes  for The 12th Dec 2024.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Nuxt test project"
+              "title": "Daily Notes  for The 12th Dec 2024"
             }
           }
         ]
@@ -195,13 +195,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "37c9bc71907884e5",
+  "active": "3f9f19dbc2b57bed",
   "lastOpenFiles": [
+    "LEARN/Nuxt test project.md",
+    "Daily Notes  for The 12th Dec 2024.md",
     "LEARN/Daily Notes  for The 25th Oct 2024.md",
     "Daily Notes  for The 9th Dec 2024.md",
     "LEARN/Test menu.md",
     "Work/CO2/Daily Notes  for The 16th Sep 2024.md",
-    "LEARN/Nuxt test project.md",
     "Untitled.canvas",
     "Personal/Conky settings.md",
     "Work/CO2/Untitled.md",
