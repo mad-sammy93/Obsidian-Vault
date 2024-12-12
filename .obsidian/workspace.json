@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +195,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "73d13ca32762c067",
+  "active": "37c9bc71907884e5",
   "lastOpenFiles": [
     "LEARN/Daily Notes  for The 25th Oct 2024.md",
     "Daily Notes  for The 9th Dec 2024.md",
