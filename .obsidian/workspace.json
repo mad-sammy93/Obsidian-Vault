@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 12th Dec 2024.md",
+                "file": "Daily Notes  for The 21st Jan 2025.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Notes  for The 12th Dec 2024"
+              "title": "Daily Notes  for The 21st Jan 2025"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.51103591918945
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b8bef3bdc5527eb",
@@ -197,8 +198,9 @@
   },
   "active": "3f9f19dbc2b57bed",
   "lastOpenFiles": [
-    "LEARN/Nuxt test project.md",
     "Daily Notes  for The 12th Dec 2024.md",
+    "Daily Notes  for The 21st Jan 2025.md",
+    "LEARN/Nuxt test project.md",
     "LEARN/Daily Notes  for The 25th Oct 2024.md",
     "Daily Notes  for The 9th Dec 2024.md",
     "LEARN/Test menu.md",
@@ -226,7 +228,6 @@
     "Work/Myne/Things to clarify for Myne.md",
     "Work/Myne/Myne .env.md",
     "Work/Myne",
-    "Work/Myne/Daily Notes  for The 10th Dec 2024.md",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
     "LEARN/POKE",
