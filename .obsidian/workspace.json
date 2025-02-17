@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 11th Feb 2025.md",
+                "file": "Training summary of all timings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Notes  for The 11th Feb 2025"
+              "title": "Training summary of all timings"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3f9f19dbc2b57bed",
+  "active": "37c9bc71907884e5",
   "lastOpenFiles": [
     "Daily Notes  for The 21st Jan 2025.md",
-    "Daily Notes  for The 11th Feb 2025.md",
+    "Training summary of all timings.md",
     "Daily Notes  for The 24th Jan 2025.md",
     "Daily Notes  for The 12th Dec 2024.md",
     "LEARN/Nuxt test project.md",
