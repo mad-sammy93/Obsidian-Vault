@@ -9,10 +9,11 @@
 
 
 **TODO:**
-- [ ]  Setup nuxt project
-- [ ] setup git repo
-- [ ] add plugins
-- [ ] setup docker  containers
+
+- [x]  Setup nuxt project
+- [x] setup git repo
+- [x] add plugins
+- [x] setup docker  containers
 - [ ] setup readme
 - [ ] add lazy loading, 
 - [ ] check for code splitting
