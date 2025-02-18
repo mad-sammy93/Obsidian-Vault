@@ -1,0 +1,32 @@
+**TECH used**
+- NUXT 3 (Typescript)
+- Pinia(STate managment)
+- Sass
+- websockets
+
+
+**PLUGINS used**
+
+
+**TODO:**
+- [ ]  Setup nuxt project
+- [ ] setup git repo
+- [ ] add plugins
+- [ ] setup docker  containers
+- [ ] setup readme
+- [ ] add lazy loading, 
+- [ ] check for code splitting
+- [ ] add efficient state management
+- [ ] use validations on all form and inputs
+- [ ] connect backend
+
+##  **FUNCTIONALITY**
+- [ ] Components and pages
+- [ ] setup login signup
+- [ ] 2 factor authentication(Google Authentication App or Duo Authentication App)
+- [ ] integrate API
+- [ ] Recurring meetings options
+- [ ] end date for recurring meetings
+- [ ] handling of recurring meeting instances to avoid conflicts with existing bookings.
+- [ ] **OPTIONAL** websockets to check realtime book
+
