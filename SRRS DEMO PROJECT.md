@@ -14,7 +14,7 @@
 - [x] setup git repo
 - [x] add plugins
 - [x] setup docker  containers
-- [ ] setup readme
+- [x] setup readme
 - [ ] add lazy loading, 
 - [ ] check for code splitting
 - [ ] add efficient state management
