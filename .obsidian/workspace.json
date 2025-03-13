@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes  for The 13th Mar 2025.md",
-                "mode": "source",
+                "file": "NUXTSAMPLE README.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes  for The 13th Mar 2025"
+              "title": "NUXTSAMPLE README"
             }
           },
           {
@@ -103,7 +103,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -259,23 +259,24 @@
   },
   "active": "92f94dbb987dfd63",
   "lastOpenFiles": [
-    "7397064026.md",
-    "Daily Notes  for The 13th Mar 2025.md",
-    "Training summary of all timings.md",
-    "Daily Notes  for The 6th Mar 2025.md",
-    "Updates for readme strapinuxt sample.md",
     "SRRS DEMO PROJECT.md",
     "SSR acount password.md",
-    "Daily Notes  for The 20th Feb 2025.md",
+    "NUXTSAMPLE README.md",
+    "template.png",
+    "Untitled.canvas",
+    "Training summary of all timings.md",
+    "Daily Notes  for The 12th Dec 2024.md",
     "Daily Notes  for The 21st Jan 2025.md",
     "Daily Notes  for The 24th Jan 2025.md",
-    "Daily Notes  for The 12th Dec 2024.md",
+    "7397064026.md",
+    "Updates for readme strapinuxt sample.md",
+    "Daily Notes  for The 6th Mar 2025.md",
+    "Daily Notes  for The 20th Feb 2025.md",
     "LEARN/Nuxt test project.md",
     "LEARN/Daily Notes  for The 25th Oct 2024.md",
     "Daily Notes  for The 9th Dec 2024.md",
     "LEARN/Test menu.md",
     "Work/CO2/Daily Notes  for The 16th Sep 2024.md",
-    "Untitled.canvas",
     "Personal/Conky settings.md",
     "Work/CO2/Untitled.md",
     "<DONE> Daily Notes  for The 1st Oct 2024.md",
@@ -286,8 +287,6 @@
     "LEARN/Daily Notes  for The 5th Aug 2024.md",
     "Daily Notes  SRRS.md",
     "LEARN/DB CONFIG.md",
-    "Work/CO2/co2 frontend env.md",
-    "template.png",
     "Work/Myne",
     "Work/CO2/Pasted image 20240730185401.png",
     "Work/CO2/Pasted image 20240605182814.png",
