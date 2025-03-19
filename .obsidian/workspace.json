@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NUXTSAMPLE README.md",
-                "mode": "preview",
+                "file": "Daily Notes  for The 19th Mar 2025.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NUXTSAMPLE README"
+              "title": "Daily Notes  for The 19th Mar 2025"
             }
           },
           {
@@ -259,9 +259,10 @@
   },
   "active": "92f94dbb987dfd63",
   "lastOpenFiles": [
+    "NUXTSAMPLE README.md",
+    "Daily Notes  for The 19th Mar 2025.md",
     "SRRS DEMO PROJECT.md",
     "SSR acount password.md",
-    "NUXTSAMPLE README.md",
     "template.png",
     "Untitled.canvas",
     "Training summary of all timings.md",
