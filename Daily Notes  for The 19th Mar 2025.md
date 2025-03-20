@@ -19,3 +19,8 @@ motivational round
 
 monday 2-15
 
+------------------------
+
+TPVision
+manayata tech park
+hybrid
