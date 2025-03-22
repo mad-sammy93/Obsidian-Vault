@@ -1,10 +1,10 @@
 {
-  "accentColor": "#8451c2",
-  "cssTheme": "Dracula Gemini",
+  "accentColor": "",
+  "cssTheme": "Everforest",
   "theme": "obsidian",
   "nativeMenus": false,
   "interfaceFontFamily": "SF Pro Text,SF Pro Display",
   "textFontFamily": "SF Pro Text",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "baseFontSizeAction": true
 }

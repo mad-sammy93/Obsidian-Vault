@@ -17,13 +17,13 @@
 - [x] setup readme
 - [ ] add lazy loading, 
 - [ ] check for code splitting
-- [ ] add efficient state management
-- [ ] use validations on all form and inputs
-- [ ] connect backend
+- [x] add efficient state management
+- [x] use validations on all form and inputs
+- [x] connect backend
 
 ##  **FUNCTIONALITY**
 - [ ] Components and pages
-- [ ] setup login signup
+- [x] setup login signup
 - [ ] 2 factor authentication(Google Authentication App or Duo Authentication App)
 - [ ] integrate API
 - [ ] Recurring meetings options
