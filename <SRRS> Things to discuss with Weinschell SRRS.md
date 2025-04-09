@@ -1,4 +1,4 @@
-	- as about the recurrence
+	-[ ]  as about the recurrence
 	- having multipe workdays selected
 
 ```json
