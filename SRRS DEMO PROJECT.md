@@ -22,12 +22,12 @@
 - [x] connect backend
 
 ##  **FUNCTIONALITY**
-- [ ] Components and pages
+- [x] Components and pages
 - [x] setup login signup
-- [ ] 2 factor authentication(Google Authentication App or Duo Authentication App)
-- [ ] integrate API
-- [ ] Recurring meetings options
-- [ ] end date for recurring meetings
+- [x] 2 factor authentication(Google Authentication App or Duo Authentication App)
+- [x] integrate API
+- [x] Recurring meetings options
+- [x] end date for recurring meetings
 - [ ] handling of recurring meeting instances to avoid conflicts with existing bookings.
 - [ ] **OPTIONAL** websockets to check realtime book
 
