@@ -1,5 +1,5 @@
-	-[ ]  as about the recurrence
-	- having multipe workdays selected
+- [x]  as about the recurrence
+- [x] having multipe workdays selected
 
 ```json
 {
