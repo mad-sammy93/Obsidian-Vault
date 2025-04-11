@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "<SRRS> Things to discuss with Weinschell SRRS"
             }
+          },
+          {
+            "id": "1a1c8b55be78e30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suggestions and Improvements.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Suggestions and Improvements"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,10 +227,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d01a9b3e92728b90",
+  "active": "1a1c8b55be78e30b",
   "lastOpenFiles": [
-    "SRRS DEMO PROJECT.md",
+    "Suggestions and Improvements.md",
     "<SRRS> Things to discuss with Weinschell SRRS.md",
+    "SRRS DEMO PROJECT.md",
     "7397064026.md",
     "Daily Notes  for The 8th Apr 2025.md",
     "Training summary of all timings.md",
@@ -242,7 +258,6 @@
     "Personal/Conky settings.md",
     "Work/CO2/Untitled.md",
     "<DONE> Daily Notes  for The 1st Oct 2024.md",
-    "Personal/List of websites worked.md",
     "Work/CO2/Pasted image 20240920124047.png",
     "Work/Myne",
     "Work/CO2/Pasted image 20240730185401.png",
